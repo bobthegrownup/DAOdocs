@@ -9,9 +9,9 @@ description: >-
 
 You can find the DAO application in Discord
 
-Must have at least one skill role
+Must be active on a weekly basis
 
-Must hold a minimum of 20,000 GRAPE
+Must hold a minimum of 20,200 GRAPE
 
 ## Skill Roles
 
@@ -21,8 +21,8 @@ Skill Roles are allocated to community members that have shown exceptional talen
 
 The only requirement is to prove ability. At present, this can be done in the Discord _share-your-talent_ channel on the Grape server.
 
-To maintain a skill role through the Grape Epochs, community members will need to actively contribute to each subDAO they have a role for.   
-  
+To maintain a skill role through the Grape Epochs, community members will need to actively contribute to each subDAO they have a role for. \
+\
 Users inactive for 30 days or more will be removed from the Discord and lose their roles. They can return and earn their role at any time.
 
 **Examples of Skill Roles are**
@@ -37,5 +37,4 @@ Users inactive for 30 days or more will be removed from the Discord and lose the
 * Community Creator
 * Region Manager
 
- 
-
+&#x20;

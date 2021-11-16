@@ -2,15 +2,16 @@
 
 * [Grape Network](README.md)
 
-## Toolset <a id="grape-toolset"></a>
+## Toolset <a href="grape-toolset" id="grape-toolset"></a>
 
 * [Overview](grape-toolset/overview.md)
 * [Grape Access](grape-toolset/grape-access.md)
 
-## Memberships Classes <a id="grape-memberships"></a>
+## Memberships Classes <a href="grape-memberships" id="grape-memberships"></a>
 
 * [Overview](grape-memberships/overview.md)
 * [Class Benefits](grape-memberships/class-benefits.md)
+* [Grape Scholarships](grape-memberships/grape-scholarships.md)
 
 ## Grape DAO
 
@@ -23,4 +24,3 @@
 ## Tokenomics
 
 * [Overview](tokenomics/overview.md)
-

@@ -13,7 +13,8 @@ description: >-
 * Research/Education
 * Design/Video
 * Moderation
-* Project Evaluation
+
+
 
 Each sub-DAO has a leader. This is the person contributing the most time organizing and communicating tasks within the sub-DAO. The sub-DAO leaders are voted every month by the sub-DAO.
 
@@ -29,7 +30,6 @@ Each sub-DAO has a leader. This is the person contributing the most time organiz
 ## sub-DAO leader responsibilities
 
 * Coordinate work requests within their sub-DAO
-* Identify new talent 
+* Identify new talent&#x20;
 * Handle sub-DAO votes and proposals
 * Present during weekly DAO update
-
