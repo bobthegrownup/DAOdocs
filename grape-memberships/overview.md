@@ -12,11 +12,11 @@ Each tier has a minimum holding requirement of $GRAPE, which is subject to adjus
 \
 Current Holding Requirement:&#x20;
 
-Class C - 1010 $GRAPE or 3300 LP Tokens
+Class C - 1020 $GRAPE or 2000 LP Tokens
 
-Class B - 5050 $GRAPE or 16500 LP Tokens
+Class B - 5100 $GRAPE or 10000 LP Tokens
 
-Class A - 20200 $GRAPE or 66000 LP Tokens
+Class A - 20400 $GRAPE or 40000 LP Tokens
 
 
 
