@@ -8,11 +8,12 @@ description: >-
 
 The Grape DAO will start with 5 sub-DAOs that reflect the needs of the community today
 
-* Community Events
-* Development
-* Research/Education
-* Design/Video
-* Moderation
+* Community Management (Moderators, Organizers)
+* Development (Developer)
+* Research (Researchers)
+* Creative (Designer, Videographer)
+* Content (Community Creators)
+* Panda Crew (Grape China)
 
 
 
