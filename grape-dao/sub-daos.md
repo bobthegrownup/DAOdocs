@@ -6,7 +6,7 @@ description: >-
 
 # Sub-DAOs
 
-The Grape DAO will start with 6 sub-DAOs that reflect the needs of the community today
+The Grape DAO will start with 5 sub-DAOs that reflect the needs of the community today
 
 * Community Events
 * Development
