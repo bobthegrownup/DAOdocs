@@ -10,7 +10,8 @@
 ## Memberships Classes <a href="#grape-memberships" id="grape-memberships"></a>
 
 * [Overview](grape-memberships/overview.md)
-* [Class Benefits](grape-memberships/class-benefits.md)
+* [Class Benefits](grape-memberships/class-benefits/README.md)
+  * [Events Prize Distribution](grape-memberships/class-benefits/events-prize-distribution.md)
 * [Grape Scholarships](grape-memberships/grape-scholarships.md)
 
 ## Grape DAO
