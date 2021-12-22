@@ -1,30 +1,44 @@
 # Table of contents
 
 * [Grape Network](README.md)
+* [Quick Start | FAQ](quicj-start-and-faq/README.md)
+  * [↳ Partners](quicj-start-and-faq/partners.md)
 
-## Toolset <a href="#grape-toolset" id="grape-toolset"></a>
+## What is Grape?
 
-* [Overview](grape-toolset/overview.md)
-* [Grape Access](grape-toolset/grape-access.md)
+* [The Grape Way](what-is-grape/overview.md)
+* [The DAO](what-is-grape/the-dao.md)
 
-## Memberships Classes <a href="#grape-memberships" id="grape-memberships"></a>
+## Grape Community
 
-* [Overview](grape-memberships/overview.md)
-* [Class Benefits](grape-memberships/class-benefits/README.md)
-  * [Events Prize Distribution](grape-memberships/class-benefits/events-prize-distribution.md)
-* [Grape Scholarships](grape-memberships/grape-scholarships.md)
+* [Get involved - and benefit!](grape-community/get-involved/README.md)
+  * [Membership Classes](grape-community/get-involved/membership-classes.md)
+  * [Skill Roles](grape-community/get-involved/skill-roles.md)
+  * [DAO Application](grape-community/get-involved/dao-application.md)
 
 ## Grape DAO
 
-* [Manifesto](grape-dao/manifesto.md)
-* [DAO Application](grape-dao/dao-application.md)
-* [DAO Responsibilities](grape-dao/dao-responsibilities.md)
-* [Proposals and Voting](grape-dao/proposals-and-voting/README.md)
-  * [Proposal Requirements](grape-dao/proposals-and-voting/proposal-requirements.md)
-  * [Voting Details](grape-dao/proposals-and-voting/voting-details.md)
-* [Sub-DAOs](grape-dao/sub-daos.md)
-* [Community Treasury](grape-dao/community-treasury.md)
+* [Responsibilities](grape-dao/dao-responsibilities.md)
+* [Organization](grape-dao/dao-organization.md)
+* [Proposals & Voting](grape-dao/proposals-and-voting/README.md)
+  * [How to create Proposals](grape-dao/proposals-and-voting/how-to-create-proposals.md)
 
-## Tokenomics
+## Grape subDAOs
 
-* [Overview](tokenomics/overview.md)
+* [Working Together](grape-subdaos/sub-daos.md)
+* [subDAO Units](grape-subdaos/subdao-units/README.md)
+  * [Community Management](grape-subdaos/subdao-units/community-management.md)
+  * [Community Management, Chinese](grape-subdaos/subdao-units/community-management-chinese.md)
+  * [Content Creation](grape-subdaos/subdao-units/content-creation.md)
+  * [Creative](grape-subdaos/subdao-units/creative.md)
+  * [Development](grape-subdaos/subdao-units/development.md)
+  * [Research](grape-subdaos/subdao-units/research.md)
+
+## Development Resources
+
+* [Grape Access](development-resources/grape-access.md)
+
+## Tokenomics & Treasury
+
+* [Tokenomics](tokenomics-and-treasury/tokenomics.md)
+* [Treasury](tokenomics-and-treasury/treasury.md)

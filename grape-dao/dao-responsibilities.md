@@ -1,19 +1,20 @@
 ---
-description: 'Every month (epoch), the DAO must address the below responsibilities'
+description: >-
+  The DAO focuses on the overall well-being of the project; its community. It
+  sets long-term goals, keeps track of important milestones, and facilitates the
+  governance of everything related to Grape.
 ---
 
-# DAO Responsibilities
+# Responsibilities
 
-* Discuss and debate new proposals
-* Voting on funding proposals
-* Voting on sub-DAO allocations
-* Setting Skill Role vs. Contest monthly allocation ratio
-* Selecting sub-DAO leaders
-* Resolving sub-DAO and community conflicts
-* Adding/removing DAO members
-* Participate in the weekly DAO update 
+**Special responsibilities**
 
-The Weekly DAO update is currently set to Sunday's at 1 pm UTC
-
-
-
+* Induce and encourage community participation.
+* Discuss and debate new proposals that further the project.
+* Facilitate voting on funding proposals.
+* Facilitate voting on subDAO allocations.
+* Delegate tasks to respective subDAOs.
+* Set Skill Role vs. Contest monthly allocation ratio.
+* Resolve subDAO and community conflicts.
+* Add/remove DAO members.
+* Participate in the weekly DAO Town Hall (Sunday 1 pm UTC).
