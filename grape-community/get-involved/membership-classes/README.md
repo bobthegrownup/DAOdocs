@@ -52,4 +52,4 @@ _20,400 $GRAPE or 40000 LP Tokens_
 
 _Minimum allocation of a class must be held for a full calendar month in order for a holder to be eligible for the respective monthly emissions and class benefits._
 
-![](../../.gitbook/assets/membership\_classes.png)
+![](../../../.gitbook/assets/membership\_classes.png)

@@ -41,7 +41,7 @@ Get started by joining the Grape [<mark style="color:purple;">**Discord**</mark>
 
 ### **Are there any requirements for keeping membership benefits?**
 
-Yes! In order to keep your membership benefits, you must meet the requirements for your [<mark style="color:purple;">**Membership Class**</mark>](../grape-community/get-involved/membership-classes.md).
+Yes! In order to keep your membership benefits, you must meet the requirements for your [<mark style="color:purple;">**Membership Class**</mark>](../grape-community/get-involved/membership-classes/).
 
 ### **Is there a $GRAPE Airdrop?**
 
