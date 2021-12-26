@@ -12,8 +12,7 @@
 ## Grape Community
 
 * [Get involved - and benefit!](grape-community/get-involved/README.md)
-  * [Membership Classes](grape-community/get-involved/membership-classes/README.md)
-    * [Events Prize Distribution](grape-community/get-involved/membership-classes/events-prize-distribution.md)
+  * [Membership Classes](grape-community/get-involved/membership-classes.md)
   * [Skill Roles](grape-community/get-involved/skill-roles.md)
   * [DAO Application](grape-community/get-involved/dao-application.md)
 

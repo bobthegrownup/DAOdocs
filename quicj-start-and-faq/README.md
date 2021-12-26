@@ -41,7 +41,7 @@ Get started by joining the Grape [<mark style="color:purple;">**Discord**</mark>
 
 ### **Are there any requirements for keeping membership benefits?**
 
-Yes! In order to keep your membership benefits, you must meet the requirements for your [<mark style="color:purple;">**Membership Class**</mark>](../grape-community/get-involved/membership-classes/).
+Yes! In order to keep your membership benefits, you must meet the requirements for your [<mark style="color:purple;">**Membership Class**</mark>](../grape-community/get-involved/membership-classes.md).
 
 ### **Is there a $GRAPE Airdrop?**
 
@@ -65,7 +65,7 @@ Send _!unlink_ as a direct message to @GRAPE on our [<mark style="color:purple;"
 2. Disconnect the old wallet (top right)
 3. Connect the new wallet&#x20;
 4. Link your Discord & Re-Register Servers again.&#x20;
-5. Find the [<mark style="color:purple;">**#grape-access**</mark>](https://discord.gg/greatape) to un-react & re-react to the emoji in the message.&#x20;
+5. Find the channel [<mark style="color:purple;">**#grape-access**</mark>](https://discord.gg/greatape) to un-react & re-react to the emoji in the message.&#x20;
 6. To check which wallet is verified, send _!verify_ as a direct message to @GRAPE on our [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape).
 
 ### **What are your Official Links and Channels?**

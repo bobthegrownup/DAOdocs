@@ -4,7 +4,7 @@
 
 ### Adding a poll for voting
 
-You create a poll for voting with the poll builder. The poll builder can be accessed from the ![](broken-reference) in the topic composer:
+You create a poll for voting with the poll builder. The poll builder can be accessed from the![:gear:](https://emoji.discourse-cdn.com/twitter/gear.png?v=9) in the topic composer:
 
 ![](../../.gitbook/assets/adding\_poll.png)
 

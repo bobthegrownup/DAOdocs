@@ -8,7 +8,7 @@ _1,020 $GRAPE or 2000 Raydium LP Tokens_
 * Chatting in Grape Community Channels&#x20;
 * Access to AMAs and Q\&A chat&#x20;
 * Participation in Solana airdrops, giveaways, and beta testing&#x20;
-* Access to contests and events! Class C prize payouts of up to 100,000 GRAPE every month!&#x20;
+* Access to contests and events! Class C prize payouts of up to 100,000 GRAPE every month! Class C members' price pools are 1/5 of Class A members' prize pools.
 * Class C monthly emissions (10 $GRAPE) to match the increase in membership
 
 {% embed url="https://youtu.be/D6YGPOmnT7A" %}
@@ -19,7 +19,7 @@ Grape Benefits - Class C: Gibbon
 
 _5,100 $GRAPE or 10000 LP Tokens_
 
-* Access to contests and events! 'Higher contest and events prize payouts of up to 250,000 every month!&#x20;
+* Access to contests and events! 'Higher contest and events prize payouts of up to 250,000 every month! Class B members' price pools are 1/2 of Class A members' prize pools.
 * Access to AMAs and Q\&A chat&#x20;
 * Access to Solana NFTs channel – Solana’s best research for NFT strategies&#x20;
 * Access to Alpha-Chat.&#x20;
@@ -52,4 +52,4 @@ _20,400 $GRAPE or 40000 LP Tokens_
 
 _Minimum allocation of a class must be held for a full calendar month in order for a holder to be eligible for the respective monthly emissions and class benefits._
 
-![](../../../.gitbook/assets/membership\_classes.png)
+![](../../.gitbook/assets/membership\_classes.png)
