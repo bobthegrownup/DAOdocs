@@ -13,6 +13,11 @@ _1,075 $GRAPE or 2000 Raydium LP Tokens_
 * Access to contests and events! Class C prize payouts of up to 100,000 GRAPE every month! Class C members' price pools are 1/5 of Class A members' prize pools.
 * Class C monthly emissions (55 $GRAPE) to match the increase in membership
 
+{% embed url="https://www.youtube.com/watch?v=D6YGPOmnT7A" %}
+Grape Benefits - Class C: Gibbon\
+Membership requirements and emissions have been updated (see values above)
+{% endembed %}
+
 ### **Class B - Great Ape**
 
 _5,370 $GRAPE or 10000 LP Tokens_
@@ -24,6 +29,11 @@ _5,370 $GRAPE or 10000 LP Tokens_
 * Participation in subDAOs and workforce! Get a Skill Role and be a major contributor in GRAPE. Over 1.5 million GRAPE every month!&#x20;
 * High Priority in Solana airdrops, giveaways, and beta testing_._
 * Class B monthly emissions (270 $GRAPE) to match the increase in membership
+
+{% embed url="https://www.youtube.com/watch?v=rtsOJH5-cwk" %}
+Grape Benefits - Class B: Great Ape\
+Membership requirements and emissions have been updated (see values above)
+{% endembed %}
 
 ### **Class A - Gorilla**
 
