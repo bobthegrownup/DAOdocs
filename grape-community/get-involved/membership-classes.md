@@ -2,7 +2,7 @@
 
 _As explained under  <mark style="color:purple;">****</mark>_ [_<mark style="color:purple;">**Get involved - and benefit!**</mark>_](./)_, the increase in token requirements is connected to the expected emissions in the next epoch. Hence, for the month of **January 2022**, the updated token requirements, per membership class, are presented below:_&#x20;
 
-**Class C - Gibbon**
+### **Class C - Gibbon**
 
 _1,075 $GRAPE or 2000 Raydium LP Tokens_
 
@@ -12,10 +12,6 @@ _1,075 $GRAPE or 2000 Raydium LP Tokens_
 * Participation in Solana airdrops, giveaways, and beta testing&#x20;
 * Access to contests and events! Class C prize payouts of up to 100,000 GRAPE every month! Class C members' price pools are 1/5 of Class A members' prize pools.
 * Class C monthly emissions (55 $GRAPE) to match the increase in membership
-
-{% embed url="https://youtu.be/D6YGPOmnT7A" %}
-Grape Benefits - Class C: Gibbon
-{% endembed %}
 
 ### **Class B - Great Ape**
 
@@ -28,10 +24,6 @@ _5,370 $GRAPE or 10000 LP Tokens_
 * Participation in subDAOs and workforce! Get a Skill Role and be a major contributor in GRAPE. Over 1.5 million GRAPE every month!&#x20;
 * High Priority in Solana airdrops, giveaways, and beta testing_._
 * Class B monthly emissions (270 $GRAPE) to match the increase in membership
-
-{% embed url="https://youtu.be/rtsOJH5-cwk" %}
-Grape Benefits - Class B: Great Ape
-{% endembed %}
 
 ### **Class A - Gorilla**
 
