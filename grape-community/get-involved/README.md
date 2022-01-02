@@ -18,9 +18,7 @@ Grape Membership: A way to get entertained, learn, and network **Crypto-Style**!
 * Contests and events with GRAPE prizes.
 * Guaranteed monthly emissions based on your Class.
 
-![](../../.gitbook/assets/Frame\_6\_1.png)
-
-**Emission Schedule**
+![Grape Membership Models](<../../.gitbook/assets/image (1).png>)
 
 **The distribution of emissions is declared and decided by the DAO every month. These emissions are used to sustain community operations, i.e. finance events and reward skill roles.**&#x20;
 

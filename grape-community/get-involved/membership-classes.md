@@ -15,7 +15,7 @@ _1,075 $GRAPE or 2000 Raydium LP Tokens_
 
 {% embed url="https://www.youtube.com/watch?v=D6YGPOmnT7A" %}
 Grape Benefits - Class C: Gibbon\
-Membership requirements and emissions have been updated (see values above)
+Membership requirements and emissions have been updated (see values above or in the section "Get involved and benefit!")
 {% endembed %}
 
 ### **Class B - Great Ape**
@@ -31,8 +31,8 @@ _5,370 $GRAPE or 10000 LP Tokens_
 * Class B monthly emissions (270 $GRAPE) to match the increase in membership
 
 {% embed url="https://www.youtube.com/watch?v=rtsOJH5-cwk" %}
-Grape Benefits - Class B: Great Ape\
-Membership requirements and emissions have been updated (see values above)
+Grape Benefits - Class C: Great Ape\
+Membership requirements and emissions have been updated (see values above or in the section "Get involved and benefit!"
 {% endembed %}
 
 ### **Class A - Gorilla**
@@ -55,5 +55,3 @@ _21,500 $GRAPE or 40000 LP Tokens_
 * Class A monthly emissions (1,100 $GRAPE) to match the increase in membership
 
 _Minimum allocation of a class must be held for a full calendar month in order for a holder to be eligible for the respective monthly emissions and class benefits._
-
-![](../../.gitbook/assets/membership\_classes.png)
