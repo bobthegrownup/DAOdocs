@@ -18,7 +18,7 @@ Grape Membership: A way to get entertained, learn, and network **Crypto-Style**!
 * Contests and events with GRAPE prizes.
 * Guaranteed monthly emissions based on your Class.
 
-![](../../.gitbook/assets/membership\_models.png)
+![](../../.gitbook/assets/Frame\_6\_1.png)
 
 **Emission Schedule**
 
