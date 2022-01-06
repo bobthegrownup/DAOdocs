@@ -8,9 +8,9 @@ description: >-
 
 ### subDAOs
 
-The <mark style="color:purple;">****</mark> [<mark style="color:purple;">**subDAOs**</mark> ](../grape-subdaos/sub-daos.md)are our economic and social powerhouses and sustain value generation for the whole Grape Community. They consist of members with specific talents recognized by a corresponding [<mark style="color:purple;">**Skill Role**</mark>](../grape-community/get-involved/skill-roles.md).
+The <mark style="color:purple;">****</mark> [<mark style="color:purple;">**subDAOs**</mark> ](../../grape-subdaos/sub-daos.md)are our economic and social powerhouses and sustain value generation for the whole Grape Community. They consist of members with specific talents recognized by a corresponding [<mark style="color:purple;">**Skill Role**</mark>](../../grape-community/get-involved/skill-roles.md).
 
-If you have a certain skill or talent that you think can help the community and want to be part of Grape, hop on our Discord server or visit: [<mark style="color:purple;">**Get involved!**</mark>](../grape-community/get-involved/)
+If you have a certain skill or talent that you think can help the community and want to be part of Grape, hop on our Discord server or visit: [<mark style="color:purple;">**Get involved!**</mark>](../../grape-community/get-involved/)
 
 ### Discord and Discourse
 

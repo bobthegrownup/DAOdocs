@@ -19,7 +19,8 @@
 ## Grape DAO
 
 * [Responsibilities](grape-dao/dao-responsibilities.md)
-* [Organization](grape-dao/dao-organization.md)
+* [Organization](grape-dao/dao-organization/README.md)
+  * [Additions and Removals](grape-dao/dao-organization/additions-and-removals.md)
 * [Proposals & Voting](grape-dao/proposals-and-voting/README.md)
   * [How to create Proposals](grape-dao/proposals-and-voting/how-to-create-proposals.md)
 
