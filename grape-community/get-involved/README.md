@@ -13,9 +13,9 @@ If you already joined us on Discord, great! Then have a look at what we’ve got
 Grape Membership: A way to get entertained, learn, and network **Crypto-Style**!
 
 * Access to exclusive high-level research around Solana NFTs, Defi strategies, and AMAs.
-* Ability to join the GRAPE workforce, request work, and earn more GRAPE.
+* Ability to join the GRAPE workforce, request work, and earn more §GRAPE.
 * Participation in giveaways, airdrops, beta tests.
-* Contests and events with GRAPE prizes.
+* Contests and events with §GRAPE prizes.
 * Guaranteed monthly emissions based on your Class.
 
 ![](<../../.gitbook/assets/image (2).png>)

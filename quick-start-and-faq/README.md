@@ -35,42 +35,6 @@ The Dashboard also has an amazing viewer for all your NFTs.
 
 Get started by joining the Grape [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) and verify your wallet in [<mark style="color:purple;">**#grape-access**</mark>](https://discord.gg/greatape).
 
-
-
-## FAQ
-
-### **Are there any requirements for keeping membership benefits?**
-
-Yes! In order to keep your membership benefits, you must meet the requirements for your [<mark style="color:purple;">**Membership Class**</mark>](../grape-community/get-involved/membership-classes.md).
-
-### **Is there a $GRAPE Airdrop?**
-
-No! There never was. But [<mark style="color:purple;">**get involved**</mark>](../grape-community/get-involved/), join our awesome [<mark style="color:purple;">**events**</mark>](https://twitter.com/EventsGrape), and win some $GRAPE!
-
-### **How are the Event Prizes distributed?**
-
-Grape hosts multiple events every week with $GRAPE Prize Pools. Payouts for each event/competition are shared ahead of time. Members receive winnings based on their membership class as discussed below
-
-* Class C (Gibbon)**:**
-  * Prize payouts of up to 100,000 $GRAPE every month!
-  * The Class C prize pool is 1/5 of the Class A pool.\
-
-* Class B (Great Ape):&#x20;
-  * Prize payouts of up to 250,000 $GRAPE every month!
-  * The Class B prize pool is 1/2 of the Class A pool.\
-
-* Class A (Gorilla):
-  * Prize payouts of up to 500,000 $GRAPE every month!
-  * Class A members benefit from the maximum price pool.
-
-### **How can I participate in Grape votes?**
-
-Great that you ask! In order to be able to shape the future of Grape, you need to be a member of the [<mark style="color:purple;">**Grape DAO**</mark>](../grape-community/get-involved/dao-application.md). If you are already a DAO Member, even better! Have a look at how creating [<mark style="color:purple;">**Proposals and Voting**</mark>](../grape-dao/proposals-and-voting/) works.&#x20;
-
-### **What are the Tokenomics?**
-
-You can find everything about our Tokenomics [<mark style="color:purple;">**here**</mark>](../tokenomics-and-treasury/tokenomics.md).
-
 ### **How do I switch verified wallets?**
 
 Just unlink & disconnect the old verified wallet and then verify the new wallet. **Keep Discord open to avoid losing roles previously achieved**. There are two methods to unlink:
@@ -83,6 +47,59 @@ Send _!unlink_ as a direct message to @GRAPE on our [<mark style="color:purple;"
 4. Link your Discord & Re-Register Servers again.&#x20;
 5. Find the channel [<mark style="color:purple;">**#grape-access**</mark>](https://discord.gg/greatape) to un-react & re-react to the emoji in the message.&#x20;
 6. To check which wallet is verified, send _!verify_ as a direct message to @GRAPE on our [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape).
+
+## FAQ
+
+### **Is there a $GRAPE Airdrop?**
+
+No! There never was. But [<mark style="color:purple;">**get involved**</mark>](../grape-community/get-involved/), join our awesome [<mark style="color:purple;">**events**</mark>](https://twitter.com/EventsGrape), and win some $GRAPE!
+
+### **How are the Event Prizes distributed?**
+
+Grape hosts multiple [<mark style="color:purple;">**events**</mark>](https://twitter.com/EventsGrape) **** every week with $GRAPE Prize Pools. Payout pools for each event/competition are shared ahead of time. Members receive winnings based on their membership class as discussed below
+
+* [<mark style="color:purple;">**Class C**</mark>](../grape-community/get-involved/membership-classes.md#class-c-gibbon) (Gibbon)**:**
+  * Prize payouts of up to 100,000 $GRAPE every month!
+  * The Class C prize pool is 1/5 of the Class A pool.\
+
+* [<mark style="color:purple;">**Class B**</mark>](../grape-community/get-involved/membership-classes.md#class-b-great-ape) (Great Ape):&#x20;
+  * Prize payouts of up to 250,000 $GRAPE every month!
+  * The Class B prize pool is 1/2 of the Class A pool.\
+
+* [<mark style="color:purple;">**Class A**</mark>](../grape-community/get-involved/membership-classes.md#class-a-gorilla) (Gorilla):
+  * Prize payouts of up to 500,000 $GRAPE every month!
+  * Class A Members benefit from the maximum price pool.
+
+### **What are the different Member Classes all about?**
+
+The Grape Membership is all about involvement!\
+There are 3 different Member Classes here at GRAPE:&#x20;
+
+* [<mark style="color:purple;">**Class C**</mark>](../grape-community/get-involved/membership-classes.md#class-c-gibbon) (Gibbon)
+* [<mark style="color:purple;">**Class B**</mark>](../grape-community/get-involved/membership-classes.md#class-b-great-ape) (Great Ape)
+* [<mark style="color:purple;">**Class A**</mark>](../grape-community/get-involved/membership-classes.md#class-a-gorilla) (Gorilla)
+
+The higher the Class, the more benefits you can enjoy! These include:
+
+* Access to exclusive high-level research around Solana NFTs, Defi strategies, and AMAs.
+* Ability to join the GRAPE workforce, request work, and earn more $GRAPE.
+* Participation in giveaways, airdrops, beta tests.
+* Contests and events with $GRAPE prizes.
+* Guaranteed monthly emissions based on your Class.
+
+For a more detailed explanation, have a look at [<mark style="color:purple;">**Membership Classes**</mark>](../grape-community/get-involved/membership-classes.md).
+
+### **Are there any requirements for keeping Membership benefits?**
+
+Yes! In order to keep your Membership benefits, you must meet the requirements for your respective [<mark style="color:purple;">**Membership Class**</mark>](../grape-community/get-involved/membership-classes.md).
+
+### **How can I participate in Grape votes?**
+
+Great that you ask! In order to be able to shape the future of Grape, you need to be a member of the [<mark style="color:purple;">**Grape DAO**</mark>](../grape-community/get-involved/dao-application.md). If you are already a DAO Member, even better! Have a look at how creating [<mark style="color:purple;">**Proposals and Voting**</mark>](../grape-dao/proposals-and-voting/) works.&#x20;
+
+### **What are the Tokenomics?**
+
+You can find everything about our Tokenomics [<mark style="color:purple;">**here**</mark>](../tokenomics-and-treasury/tokenomics.md).
 
 ### **What are your Official Links and Channels?**
 
