@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Grape Network](README.md)
-* [Quick Start | FAQ](quicj-start-and-faq/README.md)
-  * [↳ Partners](quicj-start-and-faq/partners.md)
+* [Quick Start | FAQ](quick-start-and-faq/README.md)
+  * [↳ Partners](quick-start-and-faq/partners.md)
 
 ## What is Grape?
 
