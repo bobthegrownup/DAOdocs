@@ -47,6 +47,22 @@ Yes! In order to keep your membership benefits, you must meet the requirements f
 
 No! There never was. But [<mark style="color:purple;">**get involved**</mark>](../grape-community/get-involved/), join our awesome [<mark style="color:purple;">**events**</mark>](https://twitter.com/EventsGrape), and win some $GRAPE!
 
+### **How are the Event Prizes distributed?**
+
+Grape hosts multiple events every week with $GRAPE Prize Pools. Payouts for each event/competition are shared ahead of time. Members receive winnings based on their membership class as discussed below
+
+* Class C (Gibbon)**:**
+  * Prize payouts of up to 100,000 GRAPE every month!
+  * The Class C prize pool is 1/5 of the Class A pool.\
+
+* Class B (Great Ape):&#x20;
+  * Prize payouts of up to 250,000 GRAPE every month!
+  * The Class B prize pool is 1/2 of the Class A pool.\
+
+* Class A (Gorilla):
+  * Prize payouts of up to 500,000 GRAPE every month!
+  * Class A members benefit from the maximum price pool.
+
 ### **How can I participate in Grape votes?**
 
 Great that you ask! In order to be able to shape the future of Grape, you need to be a member of the [<mark style="color:purple;">**Grape DAO**</mark>](../grape-community/get-involved/dao-application.md). If you are already a DAO Member, even better! Have a look at how creating [<mark style="color:purple;">**Proposals and Voting**</mark>](../grape-dao/proposals-and-voting/) works.&#x20;
