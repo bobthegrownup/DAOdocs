@@ -2,7 +2,7 @@
 
 ### **DAO Additions**
 
-New additions are sourced from the _**DAO-prospects**_; _****_ a channel, which applicants get access after submitting a [<mark style="color:purple;">**DAO Application**</mark>](../../grape-community/get-involved/dao-application.md). Every Sunday, the past week's candidates are evaluated and are either granted or refused the DAO role based on the aforementioned criteria.&#x20;
+New additions are sourced from the #dao-prospects; _****_ a channel, which applicants get access after submitting a [<mark style="color:purple;">**DAO Application**</mark>](../../grape-community/get-involved/dao-application.md). Every Sunday, the past week's candidates are evaluated and are either granted or refused the DAO Role based on the mentioned [<mark style="color:purple;">**criteria**</mark>](../../grape-community/get-involved/dao-application.md).&#x20;
 
 
 
