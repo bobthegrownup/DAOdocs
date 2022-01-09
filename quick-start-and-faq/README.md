@@ -52,15 +52,15 @@ No! There never was. But [<mark style="color:purple;">**get involved**</mark>](.
 Grape hosts multiple events every week with $GRAPE Prize Pools. Payouts for each event/competition are shared ahead of time. Members receive winnings based on their membership class as discussed below
 
 * Class C (Gibbon)**:**
-  * Prize payouts of up to 100,000 GRAPE every month!
+  * Prize payouts of up to 100,000 $GRAPE every month!
   * The Class C prize pool is 1/5 of the Class A pool.\
 
 * Class B (Great Ape):&#x20;
-  * Prize payouts of up to 250,000 GRAPE every month!
+  * Prize payouts of up to 250,000 $GRAPE every month!
   * The Class B prize pool is 1/2 of the Class A pool.\
 
 * Class A (Gorilla):
-  * Prize payouts of up to 500,000 GRAPE every month!
+  * Prize payouts of up to 500,000 $GRAPE every month!
   * Class A members benefit from the maximum price pool.
 
 ### **How can I participate in Grape votes?**
