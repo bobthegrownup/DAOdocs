@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Grape Network](README.md)
+* [Welcome to Grape Network!](README.md)
 * [Quick Start | FAQ](quick-start-and-faq/README.md)
   * [↳ Partners](quick-start-and-faq/partners.md)
 
