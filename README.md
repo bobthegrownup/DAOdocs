@@ -16,17 +16,16 @@ Grape Network is the toolset for Decentralized Social Networking on Solana.
 **Grape is using the platforms of today to build the platform of tomorrow.**
 {% endhint %}
 
-By layering blockchain solutions on top of systems users already love, we are providing value to user’s today, while simultaneously preparing them for the new interactions of the crypto future.\
+By layering blockchain solutions on top of systems, people already know and love, we are providing value to the Solana ecosystem, while simultaneously preparing users for the new interactions of the crypto future.\
 \
-Our bottoms up approach to building a decentralized social network uses Discord, Twitter, and Telegram. Creating the ultimate cultural membership – “The Great Ape Community”.
+Our bottom-up approach to building a decentralized social network focuses primarily on Discord and Twitter, creating the ultimate cultural membership – “The Great Ape Community”.
 
 ## Links & Resources
 
-* Website: [https://grapes.network/](https://grapes.network)
-* Grape Network App: [https://verify.grapes.network/#/](https://verify.grapes.network/#/)
-* Discord: [https://discord.gg/greatape](https://discord.com/invite/greatape)
-* Twitter: [https://twitter.com/grapeprotocol](https://twitter.com/grapeprotocol)
-* Events: [https://twitter.com/EventsGrape](https://twitter.com/EventsGrape)
+* Discord: [https://discord.gg/greatape](https://discord.gg/greatape)
+* Grape Network App: [https://verify.grapes.network/](https://verify.grapes.network)
+* Twitter: [https://twitter.com/grapeprotocol](https://twitter.com/grapeprotocol) | Events: [https://twitter.com/EventsGrape](https://twitter.com/EventsGrape)
+* Website:\* [https://grapes.network/](https://grapes.network)
 * Documentation: [https://docs.grapes.network/](https://docs.grapes.network)
 * Safety Sites: [https://safety.grapes.network/](https://safety.grapes.network)
 * NFT Marketplace: [https://nft.grapes.network/](https://nft.grapes.network)
@@ -34,7 +33,7 @@ Our bottoms up approach to building a decentralized social network uses Discord,
 * DAO (Invite): [https://dao.grapenetwork.org/invites/yEaxWY9MNq](https://dao.grapenetwork.org/invites/yEaxWY9MNq)__
 
 {% hint style="danger" %}
-**THERE IS NO OFFICIAL TELEGRAM COMMUNITY**
+_THERE IS NO Official Telegram, Slack, Snapchat, Instagram, LinkedIn, or WeChat_
 
-Please be aware of scammers. We do not have an official Telegram Community. If you come across one, understand it is community-run, and we are not responsible for the actions taken there.
+Please be aware of scammers. If you come across such a group, understand it is community-run, and we are not responsible for the actions taken there nor are we aware of them.
 {% endhint %}

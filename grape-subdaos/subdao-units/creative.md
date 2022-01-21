@@ -24,4 +24,44 @@ description: >-
 
 * Consistent in doing work requests.
 * Creating Content as much as possible to attract the interest of outsiders.
-* Save work so that one day when you need it, it will be there.
+* Save work so that one day when you need it, it will be there.\
+
+
+_**Application Steps for Designers**_
+
+_**Requirement: Submit a Design**_&#x20;
+
+* Create your own design about Grape or any Solana project
+* Edit existing materials we have released (mashups)
+* Help design a flyer or a banner for one of our Community Creators
+* Win one of the many design contests we host periodically
+
+&#x20;**Step 1: Submit your Content**
+
+The best place to submit one of the aforementioned content alternatives is in #share-your-talent [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape).
+
+**Step 2: Produce a design for Sol Work**
+
+Check #sol-work [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) <mark style="color:purple;">****</mark> frequently for work we need today. Submitting work there gives priority in the application process.
+
+
+
+_**Application Steps for Videographers**_
+
+_**Requirement: Submit a Piece of Video Content**_
+
+* Create your own videos about Grape or any Solana project
+* Edit existing materials we have released (mashups)
+* Create new promotions we have requested
+* Help edit video for one of our Community Creators
+* Win one of the many video contests we host as well
+
+Step 1: Submit your Content
+
+The best place to submit one of the aforementioned content alternatives is in #share-your-talent [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape).
+
+Step 2: Produce a video for Sol Work
+
+Check #sol-work [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) frequently for work we need today. Submitting work there gives priority in the application process Point of Contact If you need assistance, tag @Hayya but please don't do it often!
+
+_****_

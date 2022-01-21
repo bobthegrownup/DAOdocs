@@ -22,3 +22,19 @@ description: Members with the Researcher Skill Role are part of the Research sub
 * Find ways to show those in class B and lower (including those who aren't Grape members) what they are missing out on.
 * Increase the number of people who join Grape for the research.
 * Implement a way for people to request researchers to perform research on specific projects.
+
+_A pre-requisite for the acquisition of any skill role is being a Great Ape (holding 5,400 GRAPE)_
+
+_**Application Steps**_
+
+**Step 1: Share your Talent**
+
+Start by sharing your talent and particular research focus in a short paragraph here, in #share-your-talent [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape), and express your interest in joining the Researcher team.
+
+**Step 2: Share your Alpha**
+
+To get noticed, start sharing your Solana Alpha content over at #great-ape-chat on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape).
+
+**Point of Contact**
+
+If you got something super exciting tag @Whale's Friend in #great-ape-chat on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape). Please don't do it too often!

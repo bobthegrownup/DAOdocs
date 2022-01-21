@@ -13,9 +13,9 @@ If you already joined us on Discord, great! Then have a look at what we’ve got
 Grape Membership: A way to get entertained, learn, and network **Crypto-Style**!
 
 * Access to exclusive high-level research around Solana NFTs, Defi strategies, and AMAs.
-* Ability to join the GRAPE workforce, request work, and earn more §GRAPE.
+* Ability to join the GRAPE workforce, request work, and earn more $GRAPE.
 * Participation in giveaways, airdrops, beta tests.
-* Contests and events with §GRAPE prizes.
+* Contests and events with $GRAPE prizes.
 * Guaranteed monthly emissions based on your Class.
 
 ![](<../../.gitbook/assets/image (2).png>)
@@ -41,11 +41,11 @@ To compensate token holders for the emission schedule and prevent the dilution o
 
 **As seen in the infographic above the token requirements per class increase by** \~5.3%, **for the month of January 2022, to:** &#x20;
 
-Class C - Gibbon 1,075 GRAPE
+Class C - Gibbon 1,075 $GRAPE
 
-Class B - Great Ape 5,370 GRAPE
+Class B - Great Ape 5,370 $GRAPE
 
-Class A - Gorilla 21,500 GRAPE
+Class A - Gorilla 21,500 $GRAPE
 
 
 

@@ -1,10 +1,8 @@
 ---
-description: >-
-  Members with the Panda Crew Skill Role are part the Community Management,
-  Chinese subDAO
+description: Members with the Panda Skill Role are part the subDAO China
 ---
 
-# Community Management, Chinese
+# China (Pandas)
 
 <mark style="color:purple;">**Discord管理员**</mark>
 

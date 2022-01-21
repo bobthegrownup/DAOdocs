@@ -1,8 +1,10 @@
 ---
-description: Members with the Developer Skill Role are part of the Development SubDAO
+description: Members with the Developer Skill Role are part of the Development subDAO
 ---
 
 # Development
+
+We have so many things to build and only so many resources. If you are interested in helping out with everything coding-related, from websites to smart contracts then this is the Skill Role for you!
 
 #### Responsibilities
 
@@ -21,3 +23,9 @@ description: Members with the Developer Skill Role are part of the Development S
 
 * Produce software solutions to shape Grape's on-chain and decentralized future.
 * Create an open-source codebase that Solana projects can take advantage of.
+
+_A pre-requisite for the acquisition of any skill role is being a Great Ape (holding 5,400 GRAPE)_
+
+_**Application Steps**_
+
+Jump over to #great-ape-chat [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape), explain what you are interested in, as well as, your relevant experience, and tag @SULTAN PEYEK

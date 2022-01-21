@@ -4,7 +4,7 @@ Grape is aiming to be the main supporting force of Solana on all fronts; From co
 
 To accomplish our mission on the latter, we have set up Development Grants; An initiative with an objective to enhance grape tooling and by extension, Solana’s open source solutions.&#x20;
 
-Any of the _Grape subDAOs, Grape Partners_**,** _Solana Founder, or Great Ape community members and above_ are able to issue a Developer Grant, which developers in our, or a partner’s community, will be able to complete. In this [<mark style="color:purple;">**channel**</mark>](https://discord.gg/3wBwEWyCja)<mark style="color:purple;">**'s Pinned Message**</mark> on the Grape [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/GPm5hXW8) Server, you can find the **Development Specification Form**, which must be completed for the issuance of any Development Grant.&#x20;
+Any of the _Grape subDAOs, Grape Partners_**,** _Solana Founder, or Great Ape community members and above_ are able to issue a Developer Grant, which developers in our, or a partner’s community, will be able to complete. In this [<mark style="color:purple;">**channel**</mark>](https://discord.gg/3wBwEWyCja)<mark style="color:purple;">**'s Pinned Message**</mark> on the Grape [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) Server, you can find the **Development Specification Form**, which must be completed for the issuance of any Development Grant.&#x20;
 
 Once the Development Spec is filled, the Developer Grants Manager will be responsible for sourcing talent and along with the grant issuer, select the best candidate to complete the development task.&#x20;
 

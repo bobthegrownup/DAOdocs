@@ -4,7 +4,7 @@
 * [Quick Start | FAQ](quick-start-and-faq/README.md)
   * [↳ Partners](quick-start-and-faq/partners.md)
 
-## What is Grape?
+## 🍇 What is Grape?
 
 * [The Grape Way](what-is-grape/overview.md)
 * [The DAO](what-is-grape/the-dao.md)
@@ -13,6 +13,7 @@
 
 * [Get involved - and benefit!](grape-community/get-involved/README.md)
   * [Membership Classes](grape-community/get-involved/membership-classes.md)
+  * [Community Events](grape-community/get-involved/community-events.md)
   * [Skill Roles](grape-community/get-involved/skill-roles.md)
   * [DAO Application](grape-community/get-involved/dao-application.md)
 
@@ -29,10 +30,11 @@
 * [Working Together](grape-subdaos/sub-daos.md)
 * [subDAO Units](grape-subdaos/subdao-units/README.md)
   * [Community Management](grape-subdaos/subdao-units/community-management.md)
-  * [Community Management, Chinese](grape-subdaos/subdao-units/community-management-chinese.md)
+  * [China (Pandas)](grape-subdaos/subdao-units/china-pandas.md)
   * [Content Creation](grape-subdaos/subdao-units/content-creation.md)
   * [Creative](grape-subdaos/subdao-units/creative.md)
   * [Development](grape-subdaos/subdao-units/development.md)
+  * [Indonesia (Garudas)](grape-subdaos/subdao-units/indonesia-garudas.md)
   * [Research](grape-subdaos/subdao-units/research.md)
 
 ## Development Resources
