@@ -56,11 +56,11 @@ Show you can dedicate the time and effort for moderation by building a track rec
 
 **Step 2: Share your Talent**
 
-Express your interest in joining the moderators in #share-your-talent [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape).
+Express your interest in joining the moderators in [<mark style="color:purple;">**#share-your-talent**</mark>](https://discord.gg/Kj6CJKh6H2) on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape).
 
 **Point of Contact**
 
-If you need any assistance, you can tag @Takisoul in #great-ape-chat on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape), but please do not do it too often!
+You can tag @Takisoul in [<mark style="color:purple;">**#grape-chat**</mark>](https://discord.gg/amTprhcNn9) on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) <mark style="color:purple;">**i**</mark>f you need any assistance, but please do not do it too often!
 
 
 
@@ -68,6 +68,6 @@ _**Application Steps for Organizers**_
 
 **Submit an Event Idea**
 
-Submit an event idea over here: #the-jungle [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) and tag @legend. Be prepared to plan an event that can host a lot of people!
+Submit an event idea over here:[ <mark style="color:purple;">**#the-jungle**</mark>](https://discord.gg/ywsg6a2NpP) on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) and tag @legend. Be prepared to plan an event that can host a lot of people!
 
 ****

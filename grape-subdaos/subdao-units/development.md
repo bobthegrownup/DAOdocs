@@ -8,7 +8,7 @@ We have so many things to build and only so many resources. If you are intereste
 
 #### Responsibilities
 
-* Being active in the #developers channel, sharing your learnings and thoughts, and participating in voting and meetings.
+* Be active in the #developers channel, share your learnings and thoughts, and participate in voting and meetings.
 * Making initiatives that could benefit Grape and community members in the form of technical solutions and being able to execute them.
 * Helping onboard fellow new community developers.
 
@@ -28,4 +28,4 @@ _A pre-requisite for the acquisition of any skill role is being a Great Ape (hol
 
 _**Application Steps**_
 
-Jump over to #great-ape-chat [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape), explain what you are interested in, as well as, your relevant experience, and tag @SULTAN PEYEK
+Jump over to [<mark style="color:purple;">**#greape-chat**</mark>](https://discord.gg/amTprhcNn9) on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape), explain what you are interested in, as well as, your relevant experience, and tag @SULTAN PEYEK

@@ -4,7 +4,7 @@ Skill Roles are allocated to community members that have shown exceptional talen
 
 ### How to get a Grape Skill Role
 
-Each subDAO has a slightly different application process but the only requirement is to prove ability. At present, the exact steps relevant to the different available skill roles can be found on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) the channel [<mark style="color:purple;">**#roles-guide**</mark>](https://discord.gg/greatape).
+Each subDAO has a slightly different application process but the only requirement is to prove ability. At present, the exact steps relevant to the different available skill roles can be found on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) the channel [<mark style="color:purple;">**#roles-guide**</mark>](https://discord.gg/dx8KFdfccm).
 
 To maintain a Skill Role through the Grape Epochs, community members will need to actively contribute to each subDAO they have a role for. Users inactive for an Epoch or more will be removed from their subDAO and lose their Skill Roles. They can return and earn their Skill Role at any time.
 

@@ -18,7 +18,7 @@ The metric used to assess inactivity is lack of use/interaction with the Grape D
 
 In case a member got removed from the DAO due to inactivity and wants to re-apply:
 
-* Resubmit the form in [<mark style="color:purple;">**#dao-application**</mark>](https://discord.gg/greatape) __ on Discord.
+* Resubmit the form in [<mark style="color:purple;">**#dao-application**</mark>](https://discord.gg/ycGHbckZmW) __ on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape).
 * Once in the #dao-prospects channel, provide an explanation for:&#x20;
   * the lack of activity,&#x20;
   * the reason why you wish to return, and&#x20;
@@ -26,6 +26,6 @@ In case a member got removed from the DAO due to inactivity and wants to re-appl
 
 After that, it’s up to the DAO to accept reapplicants back. Reapplications will be evaluated every week, on Sunday’s DAO call, along with other additions and removals.
 
-The DAO Board will be keeping track of all future reapplicants and be accepting a maximum of 2 reapplications per member.&#x20;
+The DAO Board will keep track of all future reapplicants and accept a maximum of 2 reapplications per member.&#x20;
 
 We realize that often life gets in the way of things. In that case, please give us a heads-up if you need to be away for a while so that we don't misinterpret your inactivity.

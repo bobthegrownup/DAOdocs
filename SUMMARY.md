@@ -29,10 +29,9 @@
 
 * [Working Together](grape-subdaos/sub-daos.md)
 * [subDAO Units](grape-subdaos/subdao-units/README.md)
-  * [Community Management](grape-subdaos/subdao-units/community-management.md)
   * [China (Pandas)](grape-subdaos/subdao-units/china-pandas.md)
-  * [Content Creation](grape-subdaos/subdao-units/content-creation.md)
-  * [Creative](grape-subdaos/subdao-units/creative.md)
+  * [Community Management](grape-subdaos/subdao-units/community-management.md)
+  * [Content](grape-subdaos/subdao-units/content.md)
   * [Development](grape-subdaos/subdao-units/development.md)
   * [Indonesia (Garudas)](grape-subdaos/subdao-units/indonesia-garudas.md)
   * [Research](grape-subdaos/subdao-units/research.md)

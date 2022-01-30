@@ -8,7 +8,7 @@ The easiest way to buy $GRAPE is through a DEX like [<mark style="color:purple;"
 
 ### Grape Access (for users)
 
-In order to use Grape Access, you need to follow the steps described in [<mark style="color:purple;">**#grape-access**</mark>](https://discord.gg/greatape) on our [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape). Those steps are equivalent to most other Discord servers that use Grape Access. Please carefully read the instructions and don't forget to click on the emoji at the end.
+In order to use Grape Access, you need to follow the steps described in [<mark style="color:purple;">**#grape-access**</mark>](https://discord.gg/npd8AK4HXq) on our [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape). Those steps are equivalent to most other Discord servers that use Grape Access. Please carefully read the instructions and don't forget to click on the emoji at the end.
 
 Some DIscord servers require an initial verification before you're able to verify with Grape Access. If you are unsure, refer to the #rules channel or ask nicely.
 
@@ -41,7 +41,7 @@ The Grape [<mark style="color:purple;">**Dashboard**</mark>](https://verify.grap
 
 The Dashboard also has an amazing viewer for all your NFTs.
 
-Get started by joining the Grape [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) and verify your wallet in [<mark style="color:purple;">**#grape-access**</mark>](https://discord.gg/greatape).
+Get started by joining the Grape [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) and verify your wallet in [<mark style="color:purple;">**#grape-access**</mark>](https://discord.gg/npd8AK4HXq).
 
 ### **How do I switch verified wallets?**
 
@@ -53,18 +53,18 @@ Send _!unlink_ as a direct message to @GRAPE on our [<mark style="color:purple;"
 2. Disconnect the old wallet (top right)
 3. Connect the new wallet&#x20;
 4. Link your Discord & Re-Register Servers again.&#x20;
-5. Find the channel [<mark style="color:purple;">**#grape-access**</mark>](https://discord.gg/greatape) to un-react & re-react to the emoji in the message.&#x20;
+5. Find the channel [<mark style="color:purple;">**#grape-access**</mark>](https://discord.gg/npd8AK4HXq) to un-react & re-react to the emoji in the message.&#x20;
 6. To check which wallet is verified, send _!verify_ as a direct message to @GRAPE on our [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape).
 
 ## FAQ
 
 ### **Is there a $GRAPE Airdrop?**
 
-No! There never was. But [<mark style="color:purple;">**get involved**</mark>](../grape-community/get-involved/), join our awesome [<mark style="color:purple;">**events**</mark>](https://twitter.com/EventsGrape), and win some $GRAPE!
+No! There never was. But [<mark style="color:purple;">**get involved**</mark>](../grape-community/get-involved/), join our awesome [<mark style="color:purple;">**events**</mark>](../grape-community/get-involved/community-events.md), and win some $GRAPE!
 
 ### **How are the Event Prizes distributed?**
 
-Grape hosts multiple [<mark style="color:purple;">**events**</mark>](https://twitter.com/EventsGrape) **** every week with $GRAPE Prize Pools. Payout pools for each event/competition are shared ahead of time. Members receive winnings based on their membership class as discussed below
+Grape hosts multiple [<mark style="color:purple;">**events**</mark>](../grape-community/get-involved/community-events.md) **** every week with $GRAPE Prize Pools. Payout pools for each event/competition are shared ahead of time. Members receive winnings based on their membership class as discussed below
 
 * [<mark style="color:purple;">**Class C**</mark>](../grape-community/get-involved/membership-classes.md#class-c-gibbon) (Gibbon)**:**
   * Prize payouts of up to 100,000 $GRAPE every month!

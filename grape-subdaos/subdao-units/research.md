@@ -29,12 +29,12 @@ _**Application Steps**_
 
 **Step 1: Share your Talent**
 
-Start by sharing your talent and particular research focus in a short paragraph here, in #share-your-talent [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape), and express your interest in joining the Researcher team.
+Start by sharing your talent and particular research focus in a short paragraph here, in [<mark style="color:purple;">**#share-your-talent**</mark>](https://discord.gg/Kj6CJKh6H2) on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape), and express your interest in joining the Researcher team.
 
 **Step 2: Share your Alpha**
 
-To get noticed, start sharing your Solana Alpha content over at #great-ape-chat on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape).
+Start sharing your Solana Alpha content over at [<mark style="color:purple;">**#grape-chat**</mark>](https://discord.gg/amTprhcNn9) on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) to get noticed.
 
 **Point of Contact**
 
-If you got something super exciting tag @Whale's Friend in #great-ape-chat on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape). Please don't do it too often!
+If you got something super exciting tag @Whale's Friend in [<mark style="color:purple;">**#grape-chat**</mark>](https://discord.gg/amTprhcNn9) on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape). Please don't do it too often!

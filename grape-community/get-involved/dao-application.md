@@ -17,4 +17,4 @@ Being a DAO Member is an active undertaking and is not intended as an additional
 * Must be a [<mark style="color:purple;">**Class A**</mark>](membership-classes.md#class-a-gorilla) member.
 * Must be willing to bring value to the Grape Community.
 
-You can find the DAO application on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) in [<mark style="color:purple;">**#dao-application**</mark>](https://discord.gg/greatape).
+You can find the DAO application in [<mark style="color:purple;">**#dao-application**</mark>](https://discord.gg/ycGHbckZmW) <mark style="color:purple;">****</mark> on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape).

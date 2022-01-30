@@ -10,13 +10,13 @@ Our main place for discussing and voting on important decisions is [<mark style=
 
 All members can follow the decision-making process of the Grape DAO, but only DAO members can actively take part in votes. They can see all posts and are able to vote on proposals concerning the Grape DAO and their respective subDAO.\
 \
-If you’d like to discuss an interesting idea regarding Grape, head over to Discourse. If you’d like to make a proposal, speak directly to your subDAO Rep (link Grape subDAOs).
+If you’d like to discuss an interesting idea regarding Grape, head over to Discourse. If you’d like to make a proposal, speak directly to your [<mark style="color:purple;">**subDAO**</mark>](../../grape-subdaos/subdao-units/).
 
 ### Proposal Requirements
 
 1. Proposals need to be created on Discourse.
 2. Proposals need to be posted in the correct subCategory.
-3. Each subCategory is managed by the subDAO Reps responsible for organizing and prioritizing the subDAO’s proposals to the DAO (decisions that are not solely within the subDAO’s purview).
+3. Each subCategory is managed by the subDAO representatives responsible for organizing and prioritizing the subDAO’s proposals to the DAO (decisions that are not solely within the subDAO’s purview).
 4. There are 3 different types of proposals:
    * **Non-Funding**: Any proposal that does not require fund allocation funds or changes the governance structure.
    * **Funding**: Any proposal that (re)allocates funds but doesn’t change the governance structure.
@@ -41,4 +41,4 @@ _Voting is the most profound **** way of participation **** in the DAO. Vote._
 6. Each abstention is counting towards the threshold.
 7. A vote is considered passed when there are more votes for one option than for any other (except abstentions).
 8. A tie is considered a rejection.
-9. Voting against a proposal should be followed by giving a short reason, if not already done.
+9. If not already done, voting against a proposal should be followed by giving a short reason.
