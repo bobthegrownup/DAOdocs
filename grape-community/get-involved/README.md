@@ -39,7 +39,7 @@ Based on the current emission schedule, the inflation expected in the next year'
 
 To compensate token holders for the emission schedule and prevent the dilution of their voting power, token requirements are connected to the expected emissions in the next epoch.&#x20;
 
-**As seen in the infographic above the token requirements per class increase by** \~5.3%, **for the month of January 2022, to:** &#x20;
+**As seen in the infographic above the token requirements per class increase by** \~4.9%, **for the month of February 2022, to:** &#x20;
 
 Class C - Gibbon 1,130 $GRAPE
 
