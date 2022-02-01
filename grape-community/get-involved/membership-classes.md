@@ -31,8 +31,8 @@ _5,370 $GRAPE or 10000 LP Tokens_
 * Class B monthly emissions (270 $GRAPE) to match the increase in membership
 
 {% embed url="https://www.youtube.com/watch?v=rtsOJH5-cwk" %}
-Grape Benefits - Class C: Great Ape\
-Membership requirements and emissions have been updated (see values above or in the section "Get involved and benefit!"
+Grape Benefits - Class B: Great Ape\
+Membership requirements and emissions have been updated (see values above or in the section "Get involved and benefit!")
 {% endembed %}
 
 ### **Class A - Gorilla**
@@ -55,3 +55,8 @@ _21,500 $GRAPE or 40000 LP Tokens_
 * Class A monthly emissions (1,100 $GRAPE) to match the increase in membership
 
 _Minimum allocation of a class must be held for a full calendar month in order for a holder to be eligible for the respective monthly emissions and class benefits._
+
+{% embed url="https://www.youtube.com/watch?v=iNExva45uio" %}
+Grape Benefits - Class A: Gorilla\
+Membership requirements and emissions have been updated (see values above or in the section "Get involved and benefit!")
+{% endembed %}
