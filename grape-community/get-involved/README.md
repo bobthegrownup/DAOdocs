@@ -18,7 +18,7 @@ Grape Membership: A way to get entertained, learn, and network **Crypto-Style**!
 * Contests and events with $GRAPE prizes.
 * Guaranteed monthly emissions based on your Class.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](../../.gitbook/assets/Membership\_march.png)
 
 Based on the current emission schedule, the inflation expected in the next year's epochs from Community Emissions are the following:
 
@@ -41,11 +41,11 @@ To compensate token holders for the emission schedule and prevent the dilution o
 
 **As seen in the infographic above the token requirements per class increase by** \~5.3%, **for the month of January 2022, to:** &#x20;
 
-Class C - Gibbon 1,075 $GRAPE
+Class C - Gibbon 1,130 $GRAPE
 
-Class B - Great Ape 5,370 $GRAPE
+Class B - Great Ape 5,635 $GRAPE
 
-Class A - Gorilla 21,500 $GRAPE
+Class A - Gorilla 22,555 $GRAPE
 
 
 
