@@ -39,7 +39,8 @@
 ## Development Resources
 
 * [Grape Access](development-resources/grape-access.md)
-* [Development Grants](development-resources/development-grants.md)
+* [Development Grants](development-resources/development-grants/README.md)
+  * [Verification by DAO](development-resources/development-grants/verification-by-dao.md)
 
 ## Tokenomics & Treasury
 

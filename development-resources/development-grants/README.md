@@ -8,7 +8,7 @@ Any of the _Grape subDAOs, Grape Partners_**,** _Solana Founder, or Great Ape co
 
 Once the Development Spec is filled, the Developer Grants Manager will be responsible for sourcing talent and along with the grant issuer, select the best candidate to complete the development task.&#x20;
 
-As an incentive to community developers, completion of such grants will always be compensated and the respective developer will get an instant acceptance in the Grape [<mark style="color:purple;">**subDAO**</mark>](../grape-subdaos/subdao-units/development.md) <mark style="color:purple;">****</mark> [<mark style="color:purple;">**Development**</mark>](../grape-subdaos/subdao-units/development.md).&#x20;
+As an incentive to community developers, completion of such grants will always be compensated and the respective developer will get an instant acceptance in the Grape [<mark style="color:purple;">**subDAO**</mark>](../../grape-subdaos/subdao-units/development.md) <mark style="color:purple;">****</mark> [<mark style="color:purple;">**Development**</mark>](../../grape-subdaos/subdao-units/development.md).&#x20;
 
 Once a final agreement has been achieved, the next step in the process is escrowing the financial reward in $GRAPE until the completion of the grant. The escrow wallet will be Grape’s Treasury and the Developer Grants Manager the guarantor.&#x20;
 
