@@ -41,6 +41,17 @@
 * [Grape Access](development-resources/grape-access.md)
 * [Development Grants](development-resources/development-grants/README.md)
   * [Verification by DAO](development-resources/development-grants/verification-by-dao.md)
+  * [Embedded Grape Form on Realms](development-resources/development-grants/embedded-grape-form-on-realms.md)
+  * [Solana DAO Catalog and Discord-based DAO Creator](development-resources/development-grants/solana-dao-catalog-and-discord-based-dao-creator.md)
+  * [DAO Data Dashboard](development-resources/development-grants/dao-data-dashboard.md)
+  * [Snapshot Product](development-resources/development-grants/snapshot-product.md)
+  * [MeanFi SDK for the Grape Dashboard](development-resources/development-grants/meanfi-sdk-for-the-grape-dashboard.md)
+  * [Realms on Grape Dashboard](development-resources/development-grants/realms-on-grape-dashboard.md)
+  * [Bots - Receive Offer through Discord DM from Grape Marketplace](development-resources/development-grants/bots-receive-offer-through-discord-dm-from-grape-marketplace.md)
+  * [Socean Streams SDK for Grape Dashboard](development-resources/development-grants/socean-streams-sdk-for-grape-dashboard.md)
+  * [NFT Easy Swap on the Grape Marketplace](development-resources/development-grants/nft-easy-swap-on-the-grape-marketplace.md)
+  * [Cancel All NFT Listings through the Grape Dashboard](development-resources/development-grants/cancel-all-nft-listings-through-the-grape-dashboard.md)
+  * [Bounty / Grant Creation Form](development-resources/development-grants/bounty-grant-creation-form.md)
 
 ## Tokenomics & Treasury
 
