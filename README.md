@@ -1,7 +1,7 @@
 ---
 description: >-
-  Empower your community with GRAPE's dynamic balance based membership
-  tools.                Version 1.6 (18.01.2022)
+  Empower your community with GRAPE's dynamic balance-based membership
+  tools.                Version 1.7 (06.02.2022)
 cover: .gitbook/assets/cover1.png
 coverY: 0
 ---
