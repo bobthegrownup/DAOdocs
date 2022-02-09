@@ -1,6 +1,6 @@
 # MeanFi SDK
 
-_**MeanFi SDK —** 5k USDC_
+_**MeanFi SDK —** 5K USDC_
 
 * Display logged in users MeanFi payment streams on Grape dashboard
 * Redeem the Stream

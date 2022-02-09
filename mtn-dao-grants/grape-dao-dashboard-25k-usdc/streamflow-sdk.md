@@ -1,5 +1,7 @@
 # Streamflow SDK
 
+**Streamflow SDK**_**—** 5K USDC_
+
 * Display logged in users Streamflow payment streams on Grape dashboard
 * Redeem the Stream
 * \*based on the Grape dashboard specifications
