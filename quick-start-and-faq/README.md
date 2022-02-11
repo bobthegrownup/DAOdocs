@@ -22,7 +22,7 @@ The power of Grape Access comes by combining your wallet information with your D
 
 The beauty of this process is, that you have the right to be immediately forgotten by unlinking your Discord ID at any time.
 
-#### Supported Wallets
+#### What wallets does Grape support?
 
 Currently, we support
 
@@ -33,7 +33,7 @@ Currently, we support
 * <mark style="color:purple;">****</mark>[<mark style="color:purple;">**Ledger**</mark>](https://www.ledger.com)<mark style="color:purple;">****</mark>
 * <mark style="color:purple;">****</mark>[<mark style="color:purple;">**Torus**</mark>](https://toruswallet.io)<mark style="color:purple;">****</mark>
 
-Verifying your wallet using Ledger also works. Just head over to the Grape [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) and send _!verify_ as a direct message to @GRAPE. Our Grape bot will gladly assist you.
+Verifying your wallet using **Ledger** also works. Just head over to the Grape [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) and send _!verify_ as a direct message to @GRAPE. Our Grape bot will gladly assist you.
 
 ### Grape Dashboard
 
@@ -55,6 +55,10 @@ Send _!unlink_ as a direct message to @GRAPE on our [<mark style="color:purple;"
 4. Link your Discord & Re-Register Servers again.&#x20;
 5. Find the channel [<mark style="color:purple;">**#grape-access**</mark>](https://discord.gg/npd8AK4HXq) to un-react & re-react to the emoji in the message.&#x20;
 6. To check which wallet is verified, send _!verify_ as a direct message to @GRAPE on our [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape).
+
+### **Why don’t I see Discord channels after verifying?**
+
+Check the correct wallet is verified, the token minimum _or_ unlisted NFTs are in your wallet. Then, check that you react to the emoji in the verification channel on the Discord server.
 
 ## FAQ
 
