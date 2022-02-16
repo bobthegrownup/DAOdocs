@@ -39,7 +39,7 @@
 ## Development Resources
 
 * [Grape Access](development-resources/grape-access.md)
-* [Development Grants](development-resources/development-grants.md)
+* [Developer Bounties](development-resources/developer-bounties.md)
 
 ## mtn DAO Grants
 

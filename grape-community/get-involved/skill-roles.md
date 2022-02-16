@@ -28,5 +28,5 @@ To maintain a Skill Role through the Grape Epochs, community members will need t
 
 _Note: We are constantly looking for ways to involve more community members. If you feel there is a role you could take that is not defined by the existing ones, let us know!_
 
-![](https://lh5.googleusercontent.com/0JsDuyJ\_O0Ll5-X4SgvmoIWtNI8WzNsiY68h8ceYxKFls6oQquiogV2x1zMZg\_z1bLr\_qUXh3yM-VxZzD1MsfMc0NSSPK1EorcR288TJjbGUPilUvqRaVmYcjpSGMilDezLkH7Ns)
+![](<../../.gitbook/assets/image (4).png>)
 

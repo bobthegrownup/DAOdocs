@@ -20,7 +20,7 @@ Grape Membership: A way to get entertained, learn, and network **Crypto-Style**!
 
 ![These numbers reflect the necessary amount of $GRAPE to keep your membership next month since the first payout happens only after a full month of membership.](<../../.gitbook/assets/image (2).png>)
 
-Based on the current emission schedule, the inflation expected in the next year's epochs from Community Emissions are the following:
+Based on the current emission schedule, the inflation expected in 2022 from Community Emissions is the following:
 
 * 5.3% **January** 74.8M circulating tokens
 * 4.9% **February** 80.3M circulating tokens
@@ -32,8 +32,8 @@ Based on the current emission schedule, the inflation expected in the next year'
 * 3.5% **August** 113.3M circulating tokens
 * 3% **September** 130M circulating tokens Team + Investors first unlock
 * 2.7% **October** 143M circulating tokens
-* 2.5% **November** 156.1 circulating tokens
-* 2.36% **December** 169.2 circulating tokens
+* 2.5% **November** 156.1M circulating tokens
+* 2.36% **December** 169.2M circulating tokens
 
 **Current Membership**
 
