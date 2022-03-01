@@ -16,6 +16,7 @@
   * [Community Events](grape-community/get-involved/community-events.md)
   * [Skill Roles](grape-community/get-involved/skill-roles.md)
   * [DAO Application](grape-community/get-involved/dao-application.md)
+  * [Grape Services](grape-community/get-involved/grape-services.md)
 
 ## Grape DAO
 
@@ -47,6 +48,11 @@
   * [Realms](mtn-dao-grants/grape-dao-dashboard-25k-usdc/realms.md)
   * [MeanFi SDK](mtn-dao-grants/grape-dao-dashboard-25k-usdc/meanfi-sdk.md)
   * [Streamflow SDK](mtn-dao-grants/grape-dao-dashboard-25k-usdc/streamflow-sdk.md)
+
+## Grape Agency Services
+
+* [Community Services](grape-agency-services/community-services.md)
+* [Sales Emissions](grape-agency-services/sales-emissions.md)
 
 ## Tokenomics & Treasury
 
