@@ -1,5 +1,7 @@
 # Community Services
 
+![](<../.gitbook/assets/image (5).png>)
+
 We are proud to be the center of excellence in the Solana ecosystem. We are even prouder of our community’s inclusivity, diversity and ethos!
 
 After 6 months of exponential development, we are ready to harness our community power and transform it to a monetizable and value generating asset for our partners.
