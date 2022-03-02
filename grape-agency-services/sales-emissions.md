@@ -1,16 +1,12 @@
 # Sales Emissions
 
-**Grape Services is a community effort!** \
+**Grape Services are a community effort!** \
 ****\
-****Sales Emissions is another great way for community members to get more involved with Grape Services and get rewarded.
+****Sales Emissions are another great way for [<mark style="color:purple;">**Community Members**</mark>](../grape-community/get-involved/) to get more involved with Grape by helping to communicate our [<mark style="color:purple;">**Grape Services**</mark>](community-services.md) and getting rewarded.
 
-The relevant proposal was voted upon on-chain, passing quorum and coming into effect as of the 27th February, 2022.
+A Community Member, depending on their respective [<mark style="color:purple;">**Membership Class**</mark>](../grape-community/get-involved/membership-classes.md), can claim a percentage, ranging from 3% to 9% for any service they broker between Grape and a partner.&#x20;
 
-As outlined, a community member, depending on their respective class, can claim a percentage, ranging from 3% to 9% for any service they assist in closing between Grape and a partner.&#x20;
-
-## **Sales Emissions Specifics** <a href="#a7a9" id="a7a9"></a>
-
-_Sales Emission Rewards depend on your Grape Membership Class:_
+_Sales Emission Rewards depend on the Grape Membership Class:_
 
 * Class C: 3%&#x20;
 * Class B: 6%
@@ -18,11 +14,12 @@ _Sales Emission Rewards depend on your Grape Membership Class:_
 
 ## Steps to follow as a referrer <a href="#a7a9" id="a7a9"></a>
 
-1. Showcase what our community offers through the [GRAPE services document](community-services.md)
-2. Once the project has confirmed interest in booking one or more of our services, feel free reach out to _**Takisoul#5096**_ or _**Dim Selk#3870**_
-3. To guarantee your sales emission, forward the project you are talking to our [‘Contribution Page’](https://verify.grapes.network/#/contribute) and ask them to complete it and ask them to add your Discord username as the **Contribution Reason**
+1. Showcase what our community offers through the <mark style="color:purple;"></mark> [<mark style="color:purple;">**Grape Services document**</mark>](community-services.md).
+2. Once the project has confirmed interest in booking one or more of our services, feel free to reach out to _**Takisoul#5096**_ or _**Dim Selk#3870** _ on our [<mark style="color:purple;">**Discord**</mark>](https://discord.com/invite/greatape).
+3. To guarantee your Sales Emission, send the project you are talking to our [<mark style="color:purple;">**Contribution Page**</mark>](https://verify.grapes.network/#/contribute).
+4. Ask them to click on one of the arrows on the right, depending on the tokens they want to transfer and ask them to add your Discord username as the **Contribution Reason.**
 
-![](<../.gitbook/assets/image (3).png>)
+![The Contribution Reason will be visible since it's on-chain](<../.gitbook/assets/image (3).png>)
 
 _Proof of On-chain Community Vote_: [https://realms.today/dao/GRAPE/proposal/4RkbuRiMws5C6vaQXvf8n7iYTJuJpeqDqksDVxkjpGBJ\
 ](https://realms.today/dao/GRAPE/proposal/4RkbuRiMws5C6vaQXvf8n7iYTJuJpeqDqksDVxkjpGBJ)
