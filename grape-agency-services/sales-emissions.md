@@ -19,7 +19,7 @@ _Sales Emission Rewards depend on the Grape Membership Class:_
 3. To guarantee your Sales Emission, send the project you are talking to our [<mark style="color:purple;">**Contribution Page**</mark>](https://verify.grapes.network/#/contribute).
 4. Ask them to click on one of the arrows on the right, depending on the tokens they want to transfer and ask them to add your Discord username as the **Contribution Reason.**
 
-![The Contribution Reason will be visible since it's on-chain](<../.gitbook/assets/image (3).png>)
+![The Contribution Reason will be visible since it's on-chain](../.gitbook/assets/Contribute)
 
 _Proof of On-chain Community Vote_: [https://realms.today/dao/GRAPE/proposal/4RkbuRiMws5C6vaQXvf8n7iYTJuJpeqDqksDVxkjpGBJ\
 ](https://realms.today/dao/GRAPE/proposal/4RkbuRiMws5C6vaQXvf8n7iYTJuJpeqDqksDVxkjpGBJ)
