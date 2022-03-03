@@ -16,7 +16,6 @@
   * [Community Events](grape-community/get-involved/community-events.md)
   * [Skill Roles](grape-community/get-involved/skill-roles.md)
   * [DAO Application](grape-community/get-involved/dao-application.md)
-  * [Grape Services](grape-community/get-involved/grape-services.md)
 
 ## Grape DAO
 
