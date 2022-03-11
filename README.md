@@ -30,7 +30,7 @@ Our bottom-up approach to building a decentralized social network focuses primar
 * Safety Sites: [https://safety.grapes.network/](https://safety.grapes.network)
 * NFT Marketplace: [https://nft.grapes.network/](https://nft.grapes.network)
 * DAO: [https://dao.grapenetwork.org/](https://dao.grapenetwork.org)
-* DAO (Invite): [https://dao.grapenetwork.org/invites/yEaxWY9MNq](https://dao.grapenetwork.org/invites/yEaxWY9MNq)__
+* Discourse (Invite): [https://dao.grapenetwork.org/invites/ht47VNPVER](https://dao.grapenetwork.org/invites/ht47VNPVER)
 
 {% hint style="danger" %}
 _THERE IS NO Official Telegram, Slack, Snapchat, Instagram, LinkedIn, or WeChat_
