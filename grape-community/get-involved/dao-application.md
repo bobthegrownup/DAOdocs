@@ -1,10 +1,3 @@
----
-description: >-
-  The Grape DAO is the highest expression of community involvement. Being a
-  member of this group means you are one of the core contributors and will vote
-  in major decisions
----
-
 # DAO Application
 
 The Grape DAO is the highest expression of community involvement. As a member of this group, you are integral to the Grape Community and a core contributor who votes on major decisions, shaping the future of the project.
