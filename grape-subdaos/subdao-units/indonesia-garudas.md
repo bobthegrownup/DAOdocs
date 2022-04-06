@@ -28,7 +28,7 @@ Peran ini mempunyai tanggung jawab sangat besar,menuntut individu kreatif inovat
 
 Jika kalian berkeinginan membangun Grape Indonesia bersama kami,anda harus mengirimkan aplikasi ke subDAO _**#Indonesia-chat**_** ** ([<mark style="color:purple;">**Discord**</mark>](https://discord.com/invite/greatape))
 
-Persyaratan untuk mendapatkan peran minimal adalah GREAT APE ( Memegang 5.400 $Grape ).
+Persyaratan untuk mendapatkan peran minimal adalah GREAT APE.
 
 #### _**Langkah-langkah aplikasi**_
 

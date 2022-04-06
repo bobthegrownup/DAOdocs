@@ -44,7 +44,7 @@ _****_
 
 **Application Process**
 
-_A pre-requisite for the acquisition of any skill role is being a Great Ape (holding 5,400 GRAPE)_
+_A pre-requisite for the acquisition of any skill role is being a Great Ape._
 
 __
 

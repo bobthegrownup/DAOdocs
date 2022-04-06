@@ -24,8 +24,8 @@ We have so many things to build and only so many resources. If you are intereste
 * Produce software solutions to shape Grape's on-chain and decentralized future.
 * Create an open-source codebase that Solana projects can take advantage of.
 
-_A pre-requisite for the acquisition of any skill role is being a Great Ape (holding 5,400 GRAPE)_
+_A pre-requisite for the acquisition of any skill role is being a Great Ape._
 
 _**Application Steps**_
 
-Jump over to [<mark style="color:purple;">**#greape-chat**</mark>](https://discord.gg/amTprhcNn9) on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape), explain what you are interested in, as well as, your relevant experience, and tag @SULTAN PEYEK
+Jump over to [<mark style="color:purple;">**#grape-chat**</mark>](https://discord.gg/amTprhcNn9) on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape), explain what you are interested in, as well as, your relevant experience, and tag _@kirk#3771_

@@ -28,7 +28,7 @@ Individuals skilled in producing any of the content listed below:
 
 If you are skilled in the production of any type of the aforementioned content categories you should submit an application to the Community Creators subDAO and have it accepted to become a member.
 
-_A pre-requisite for the acquisition of any skill role is being a Great Ape (holding 5,400 GRAPE)_
+_A pre-requisite for the acquisition of any skill role is being a Great Ape._
 
 _**Application Steps**_
 

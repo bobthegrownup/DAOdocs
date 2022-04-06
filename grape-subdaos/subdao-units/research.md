@@ -23,7 +23,7 @@ description: Members with the Researcher Skill Role are part of the Research sub
 * Increase the number of people who join Grape for the research.
 * Implement a way for people to request researchers to perform research on specific projects.
 
-_A pre-requisite for the acquisition of any skill role is being a Great Ape (holding 5,400 GRAPE)_
+_A pre-requisite for the acquisition of any skill role is being a Great Ape._
 
 _**Application Steps**_
 
