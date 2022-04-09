@@ -1,24 +1,24 @@
 ---
 description: >-
   The Grape DAO is organized into subDAOs that represent the different
-  operational units of Grape.
+  operational units of Grape, the DAO Core, and DAO Board
 ---
 
 # Organization
 
-As clear frontrunners in the DAO space, it is important to remember that we are sailing in uncharted territories. Therefore, we sustain and promote a culture of constant philosophical exploration. It is our mission to develop an effective structure that will be able to operate autonomously for years to come. Flexibility and and open mindedness are our mottos in this Web3.0 journey.
+As frontrunners in the DAO space, it is important to remember that we are sailing in uncharted territories. Therefore, we sustain and promote a culture of constant philosophical exploration. Our mission is to develop an effective and efficient structure that is able to operate autonomously for years to come. Flexibility and open-mindedness are our mottos in this Web3.0 journey.
 
 ## Governance
 
-![Grape DAO: Current Governance Structure](<../../.gitbook/assets/image (3).png>)
+![Grape DAO: Current Governance Structure](../../.gitbook/assets/dao\_core.png)
 
-**Grape DAO Definitions:**
+**Community:** Our community is everything to us. From it, we draw our strength, inspiration, and drive to innovate and improve. This is why we make it as easy as possible for members to participate, and all who want to [<mark style="color:purple;">**get involved**</mark>](../../grape-community/get-involved/) can.
 
-&#x20;**DAO:** Gorilla Members, active on discourse/discord and Realms, able to push, discuss, and vote on proposals.&#x20;
+**DAO:** Gorilla Members, active on Discourse/Discord and Realms, able to push, discuss, and vote on proposals.&#x20;
 
-**DAO Core:** A subset of DAO Members that are accountable and responsible for every DAO-related functional category. This is an operational team managing a plethora of tasks from community bounty generation, to DAO Call minutes keeping. _This role is deserving of community emissions._
+**DAO Core:** A subset of DAO Members that are accountable and responsible for every DAO-related functional category. This is an operational team managing a plethora of tasks from community bounty generation, to DAO Call minutes keeping. _This role is eligible for community emissions._
 
-**DAO Board:** A 5-member council responsible for providing a general strategic direction for the DAO and community. An additional responsibility of the Board is to oversee and organize the DAO Core. _This role is deserving of community emissions._
+**DAO Board:** A 5-member council focused on DAO-related tasks like management and communication. An additional responsibility of the DAO Board is to organize the DAO Core. _This role is eligible for community emissions._
 
 ## SubDAOs
 
