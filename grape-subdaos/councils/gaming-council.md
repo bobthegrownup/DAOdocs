@@ -7,23 +7,23 @@ The Grape Gaming Council looks to leverage the resources and passion of GRAPE me
 * Be the hub of information about GameFi on Solana Produce game recommendations and Alpha&#x20;
 * Coordinate/ Facilitate games to market and reach an audience Provide a platform for games to approach for beta testing&#x20;
 * Provide a platform for gamers to lend/borrow NFTs to play games&#x20;
-* Provide a platform/resource for streamers/content creators to produce content.
+* Provide a platform/resource for streamers/content creators to produce content
 
 **What are we looking for**
 
 * SMEs for games in SOLANA GameFi&#x20;
 * People willing to BUIDL together to produce solutions to the SOLANA GameFi ecosystem&#x20;
 * Gamers who are looking to play games&#x20;
-* Content Producers who are motivated to play games and engage audiences.
+* Content Producers who are motivated to play games and engage audiences
 
 **Long Term Goals**
 
 * Become an incubator for GUILDS in various games and provide sanctuary services&#x20;
-* Work with or develop protocols like SOLVENT to make GameFi NFTs more accessible to gamers.
+* Work with or develop protocols like SOLVENT to make GameFi NFTs more accessible to gamers
 
 **Membership**
 
-* A prerequisite for the acquisition of any skill role is being a Great Ape.
+* A prerequisite for the acquisition of any skill role is being a Great Ape
 
 _**Application Steps**_
 
