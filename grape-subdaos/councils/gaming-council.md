@@ -4,22 +4,24 @@ The Grape Gaming Council looks to leverage the resources and passion of GRAPE me
 
 **Responsibilities**
 
-* Be the hub of information about GameFi on Solana Produce game recommendations and Alpha&#x20;
-* Coordinate/ Facilitate games to market and reach an audience Provide a platform for games to approach for beta testing&#x20;
+* Be the hub of information about GameFi on Solana
+* Produce game recommendations and Alpha&#x20;
+* Coordinate/ Facilitate games to market and reach an audience
+* Provide a platform for games to approach for beta testing&#x20;
 * Provide a platform for gamers to lend/borrow NFTs to play games&#x20;
 * Provide a platform/resource for streamers/content creators to produce content
 
 **What are we looking for**
 
-* SMEs for games in SOLANA GameFi&#x20;
-* People willing to BUIDL together to produce solutions to the SOLANA GameFi ecosystem&#x20;
+* SMEs for games in Solana GameFi&#x20;
+* People willing to BUIDL together to produce solutions to the Solana GameFi ecosystem&#x20;
 * Gamers who are looking to play games&#x20;
 * Content Producers who are motivated to play games and engage audiences
 
 **Long Term Goals**
 
-* Become an incubator for GUILDS in various games and provide sanctuary services&#x20;
-* Work with or develop protocols like SOLVENT to make GameFi NFTs more accessible to gamers
+* Become an incubator for **Guilds** in various games and provide sanctuary services&#x20;
+* Work with or develop protocols like **Solvent** to make GameFi NFTs more accessible to gamers
 
 **Membership**
 
@@ -29,9 +31,9 @@ _**Application Steps**_
 
 **Step 1: Share your Talent**
 
-Start by sharing your talent and particular research focus in a short paragraph here, in [<mark style="color:purple;">**#share-your-talent**</mark>](https://discord.gg/Kj6CJKh6H2) on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape), and express your interest in joining the council.
+Start here by sharing your talent and particular research focus in a short paragraph here, in [<mark style="color:purple;">**#share-your-talent**</mark>](https://discord.gg/Kj6CJKh6H2) on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape), and express your interest in joining the council.
 
-**Step 2: Share your Talent**
+**Step 2: Begin Discussions**
 
 Start sharing your Web3/Solana Gaming content over at [<mark style="color:purple;">**#grape-chat**</mark>](https://discord.gg/amTprhcNn9) on [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) to get noticed.
 
