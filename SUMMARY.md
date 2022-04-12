@@ -35,6 +35,8 @@
   * [Development](grape-subdaos/subdao-units/development.md)
   * [Indonesia (Garudas)](grape-subdaos/subdao-units/indonesia-garudas.md)
   * [Research](grape-subdaos/subdao-units/research.md)
+* [Councils](grape-subdaos/councils/README.md)
+  * [Gaming Council](grape-subdaos/councils/gaming-council.md)
 
 ## Development Resources
 
