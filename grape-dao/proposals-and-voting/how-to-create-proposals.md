@@ -4,7 +4,7 @@
 
 ### Adding a poll for voting
 
-You create a poll for voting with the poll builder. The poll builder can be accessed from the![:gear:](https://emoji.discourse-cdn.com/twitter/gear.png?v=9) in the topic composer:
+You create a poll for voting with the poll builder. The poll builder can be accessed from the<img src="https://emoji.discourse-cdn.com/twitter/gear.png?v=9" alt=":gear:" data-size="line"> in the topic composer:
 
 ![](../../.gitbook/assets/adding\_poll.png)
 
@@ -12,7 +12,7 @@ This will appear once you have pressed ‘build poll’:
 
 ![](../../.gitbook/assets/build\_poll.png)
 
-To show advanced options press the ![:gear:](https://emoji.discourse-cdn.com/twitter/gear.png?v=9) icon. This will show you different poll options such as poll auto close, groups allowed to vote etc.
+To show advanced options press the <img src="https://emoji.discourse-cdn.com/twitter/gear.png?v=9" alt=":gear:" data-size="line"> icon. This will show you different poll options such as poll auto close, groups allowed to vote etc.
 
 #### Poll Options
 

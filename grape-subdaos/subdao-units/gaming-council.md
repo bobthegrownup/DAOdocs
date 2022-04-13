@@ -1,6 +1,6 @@
 # Gaming Council
 
-The Grape Gaming Council looks to leverage the resources and passion of GRAPE members to create a sub-community that innovates in the field of community led GameFi adoption and growth. Being a DAO we look forward to being able to empower the community in taking actions to prioritise what the community thinks is most important.
+The Grape Gaming Council looks to leverage your passion and the resources of GRAPE to create a team that innovates in the field of community led GameFi adoption and growth. Being a DAO we look forward to being able to empower the community in taking actions to prioritise what the community thinks is most important.
 
 **Responsibilities**
 
@@ -14,9 +14,9 @@ The Grape Gaming Council looks to leverage the resources and passion of GRAPE me
 **What are we looking for**
 
 * SMEs for games in Solana GameFi&#x20;
-* People willing to BUIDL together to produce solutions to the Solana GameFi ecosystem&#x20;
-* Gamers who are looking to play games&#x20;
-* Content Producers who are motivated to play games and engage audiences
+* People willing to BUIDL to produce solutions for the Solana GameFi ecosystem
+* Gamer who is looking to play Solana Games
+* Content creator who are motivated to play games and engage audiences
 
 **Long Term Goals**
 
