@@ -4,7 +4,7 @@ description: Discourse and on-chain Proposals
 
 # Creating Proposals
 
-### Proposals
+## Proposals
 
 There are two different kinds of proposals:
 
@@ -15,9 +15,11 @@ Discourse is our main tool for preparing and discussing proposals that later can
 
 Since, for the time being, on-chain votes on _**realms**_ can only have a _**binary outcome**_, multiple-choice votes are done on Discourse.
 
-### Adding a poll for voting on Discourse
 
-You create a poll for voting with the poll builder. The poll builder can be accessed from the<img src="https://emoji.discourse-cdn.com/twitter/gear.png?v=9" alt=":gear:" data-size="line"> in the topic composer:
+
+### Adding a proposal on Discourse
+
+On Discourse, we use polls for voting. To create a poll use the poll builder which can be accessed from the<img src="https://emoji.discourse-cdn.com/twitter/gear.png?v=9" alt=":gear:" data-size="line"> in the topic composer:
 
 ![](../../.gitbook/assets/adding\_poll.png)
 
@@ -51,6 +53,8 @@ To show advanced options press the <img src="https://emoji.discourse-cdn.com/twi
 Discourse polls can be used for a pre-selection to find a viable solution out of different options which then can be put to an on-chain vote.
 {% endhint %}
 
+###
+
 ### Adding a proposal on realms
 
 Everyone who has 200.000 $GRAPE or more on realms is able to create proposals.&#x20;
@@ -73,10 +77,10 @@ Here is a [<mark style="color:purple;">**template**</mark>](https://gist.github.
 [_<mark style="color:purple;">**This**</mark>_](https://realms.today/dao/GRAPE/proposal/ECvFEgo6fzTfYgQop7Vrfby7VGumSWN89dX6uUMp1fin) _is what the template proposal looks like._
 {% endhint %}
 
-In order to create a proposal without any on-chain instruction, just select 'None' and choose any wallet under 'Governance' \[2]. If you want to add any on-chain instructions, simply chose the transaction type and the correct wallet. Be extra cautious and always check twice. You can always save the draft and let a fellow DAO Member cross-check.
+In order to create a proposal without any on-chain instruction, just select 'None' and choose any wallet under 'Governance' \[2]. If you want to add any on-chain instructions, simply choose the transaction type and the correct wallet. Be extra cautious and better check twice. You can always save the proposal as a draft and let a fellow DAO Member cross-check.
 
 {% hint style="danger" %}
-Once you select 'Save draft' or 'Add proposal' \[3] you neither can change the instructions nor the title or description! The only difference with a draft is that the proposal isn't live.
+Once you select 'Save draft' or 'Add proposal' \[3] you neither can change the instructions nor the title! Right now, the description can be changed if you're using Github Gist. Basically, the only difference with a draft is that the proposal isn't live.
 {% endhint %}
 
 \

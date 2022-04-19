@@ -23,6 +23,8 @@
 * [Organization](grape-dao/dao-organization/README.md)
   * [Additions and Removals](grape-dao/dao-organization/additions-and-removals.md)
 * [Proposals & Voting](grape-dao/proposals-and-voting/README.md)
+  * [Voting](grape-dao/proposals-and-voting/voting.md)
+  * [Proposal Requirements](grape-dao/proposals-and-voting/proposal-requirements.md)
   * [Creating Proposals](grape-dao/proposals-and-voting/creating-proposals.md)
 
 ## Grape subDAOs
