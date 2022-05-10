@@ -121,7 +121,7 @@ You can find everything about our Tokenomics [<mark style="color:purple;">**here
 * Website:\* [https://grapes.network/](https://grapes.network)
 * Documentation: [https://docs.grapes.network/](https://docs.grapes.network)
 * Safety Sites: [https://safety.grapes.network/](https://safety.grapes.network)
-* NFT Marketplace: [https://nft.grapes.network/](https://nft.grapes.network)
+* NFT Marketplace: [https://grape.art/](https://grape.art)
 * DAO: [https://dao.grapenetwork.org/](https://dao.grapenetwork.org)
 * Discourse (Invite): [https://dao.grapenetwork.org/invites/ht47VNPVER](https://dao.grapenetwork.org/invites/ht47VNPVER)
 
@@ -135,4 +135,4 @@ Please be aware of scammers. If you come across such a group, understand it is c
 
 Sure, there are grape things ahead!
 
-![](../.gitbook/assets/roadmap.png)
+![](<../.gitbook/assets/image (5).png>)

@@ -39,13 +39,16 @@ Based on the current emission schedule, the inflation expected in 2022 from Comm
 
 To compensate token holders for the emission schedule and prevent the dilution of their voting power, token requirements are connected to the expected emissions in the next epoch.&#x20;
 
-**As seen in the infographic above the token requirements per class increased by** \~4.38%, **for the month of April 2022, to:** &#x20;
+**As seen in the infographic above the token requirements per class increased by** \~4.38%, **for the month of May 2022, to:** &#x20;
 
-Class C - Gibbon 1,245 $GRAPE
+Class C - Gibbon 1,295 $GRAPE
 
-Class B - Great Ape 6,200 $GRAPE
+Class B - Great Ape 6,455 $GRAPE
 
-Class A - Gorilla 24,800 $GRAPE
+Class A - Gorilla 25,825 $GRAPE
+
+Class Neanderthal - 208,260 $GRAPE\
+
 
 
 
