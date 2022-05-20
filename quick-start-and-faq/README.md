@@ -26,12 +26,12 @@ The beauty of this process is, that you have the right to be immediately forgott
 
 Currently, we support
 
-* [<mark style="color:purple;">**Phantom**</mark>](https://phantom.app)<mark style="color:purple;">****</mark>
-* [<mark style="color:purple;">**Solflare**</mark>](https://solflare.com)<mark style="color:purple;">****</mark>
-* <mark style="color:purple;">****</mark>[<mark style="color:purple;">**Slope**</mark>](https://slope.finance)<mark style="color:purple;">****</mark>
-* <mark style="color:purple;">****</mark>[<mark style="color:purple;">**Sollet**</mark>](https://www.sollet.io) <mark style="color:purple;">****</mark>** | **<mark style="color:purple;">****</mark> [<mark style="color:purple;">**Sollet (Extension)**</mark>](https://chrome.google.com/webstore/detail/sollet/fhmfendgdocmcbmfikdcogofphimnkno)<mark style="color:purple;">****</mark>
-* <mark style="color:purple;">****</mark>[<mark style="color:purple;">**Ledger**</mark>](https://www.ledger.com)<mark style="color:purple;">****</mark>
-* <mark style="color:purple;">****</mark>[<mark style="color:purple;">**Torus**</mark>](https://toruswallet.io)<mark style="color:purple;">****</mark>
+* [<mark style="color:purple;">**Phantom**</mark>](https://phantom.app/)<mark style="color:purple;">****</mark>
+* [<mark style="color:purple;">**Solflare**</mark>](https://solflare.com/)<mark style="color:purple;">****</mark>
+* <mark style="color:purple;">****</mark>[<mark style="color:purple;">**Slope**</mark>](https://slope.finance/)<mark style="color:purple;">****</mark>
+* <mark style="color:purple;">****</mark>[<mark style="color:purple;">**Sollet**</mark>](https://www.sollet.io/) <mark style="color:purple;">****</mark>** | **<mark style="color:purple;">****</mark> [<mark style="color:purple;">**Sollet (Extension)**</mark>](https://chrome.google.com/webstore/detail/sollet/fhmfendgdocmcbmfikdcogofphimnkno)<mark style="color:purple;">****</mark>
+* <mark style="color:purple;">****</mark>[<mark style="color:purple;">**Ledger**</mark>](https://www.ledger.com/)<mark style="color:purple;">****</mark>
+* <mark style="color:purple;">****</mark>[<mark style="color:purple;">**Torus**</mark>](https://toruswallet.io/)<mark style="color:purple;">****</mark>
 
 Verifying your wallet using **Ledger** also works. Just head over to the Grape [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) and send _!verify_ as a direct message to @GRAPE. Our Grape bot will gladly assist you.
 
@@ -116,13 +116,13 @@ You can find everything about our Tokenomics [<mark style="color:purple;">**here
 ### **What are your Official Links and Channels?**
 
 * Discord: [https://discord.gg/greatape](https://discord.gg/greatape)
-* Grape Network App: [https://verify.grapes.network/](https://verify.grapes.network)
+* Grape Network App: [https://verify.grapes.network/](https://verify.grapes.network/)
 * Twitter: [https://twitter.com/grapeprotocol](https://twitter.com/grapeprotocol) | Events: [https://twitter.com/EventsGrape](https://twitter.com/EventsGrape)
-* Website:\* [https://grapes.network/](https://grapes.network)
-* Documentation: [https://docs.grapes.network/](https://docs.grapes.network)
-* Safety Sites: [https://safety.grapes.network/](https://safety.grapes.network)
-* NFT Marketplace: [https://grape.art/](https://grape.art)
-* DAO: [https://dao.grapenetwork.org/](https://dao.grapenetwork.org)
+* Website:\* [https://grapes.network/](https://grapes.network/)
+* Documentation: [https://docs.grapes.network/](https://docs.grapes.network/)
+* Safety Sites: [https://safety.grapes.network/](https://safety.grapes.network/)
+* NFT Marketplace: [https://grape.art/](https://grape.art/)
+* DAO: [https://dao.grapenetwork.org/](https://dao.grapenetwork.org/)
 * Discourse (Invite): [https://dao.grapenetwork.org/invites/ht47VNPVER](https://dao.grapenetwork.org/invites/ht47VNPVER)
 
 {% hint style="danger" %}

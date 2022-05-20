@@ -8,8 +8,8 @@ description: Discourse and on-chain Proposals
 
 There are two different kinds of proposals:
 
-* [<mark style="color:purple;">**Discourse**</mark>](https://dao.grapenetwork.org)
-* <mark style="color:purple;"></mark>[<mark style="color:purple;">**realms**</mark>](https://realms.today) (on-chain)
+* [<mark style="color:purple;">**Discourse**</mark>](https://dao.grapenetwork.org/)
+* <mark style="color:purple;"></mark>[<mark style="color:purple;">**realms**</mark>](https://realms.today/) (on-chain)
 
 Discourse is our main tool for preparing and discussing proposals that later can be voted on. Our aim is to prepare and discuss proposals in advance and then execute them with an on-chain vote on realms. A proper proposal should always have some kind of reference to either a Discourse \[Discussion] or a post so that the people who vote are able to understand the background of the proposal.
 
@@ -65,7 +65,7 @@ Once in the creation screen, there are two options to proceed with setting up th
 The description can either be done:
 
 1. directly in realms (simple)
-2. in [<mark style="color:purple;">**Github Gist**</mark>](https://gist.github.com) (advanced)
+2. in [<mark style="color:purple;">**Github Gist**</mark>](https://gist.github.com/) (advanced)
 
 Proposals, in general, should be **clear**, **concise**, and **informative**. They should also contain a reference link that directs a reader/voter to the proposals' origin (e.g. Discourse).&#x20;
 

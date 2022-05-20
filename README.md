@@ -23,13 +23,13 @@ Our bottom-up approach to building a decentralized social network focuses primar
 ## Links & Resources
 
 * Discord: [https://discord.gg/greatape](https://discord.gg/greatape)
-* Grape Network App: [https://verify.grapes.network/](https://verify.grapes.network)
+* Grape Network App: [https://verify.grapes.network/](https://verify.grapes.network/)
 * Twitter: [https://twitter.com/grapeprotocol](https://twitter.com/grapeprotocol) | Events: [https://twitter.com/EventsGrape](https://twitter.com/EventsGrape)
-* Website:\* [https://grapes.network/](https://grapes.network)
-* Documentation: [https://docs.grapes.network/](https://docs.grapes.network)
-* Safety Sites: [https://safety.grapes.network/](https://safety.grapes.network)
-* NFT Marketplace: [https://nft.grapes.network/](https://nft.grapes.network)
-* DAO: [https://dao.grapenetwork.org/](https://dao.grapenetwork.org)
+* Website:\* [https://grapes.network/](https://grapes.network/)
+* Documentation: [https://docs.grapes.network/](https://docs.grapes.network/)
+* Safety Sites: [https://safety.grapes.network/](https://safety.grapes.network/)
+* NFT Marketplace: [https://nft.grapes.network/](https://nft.grapes.network/)
+* DAO: [https://dao.grapenetwork.org/](https://dao.grapenetwork.org/)
 * Discourse (Invite): [https://dao.grapenetwork.org/invites/ht47VNPVER](https://dao.grapenetwork.org/invites/ht47VNPVER)
 
 {% hint style="danger" %}

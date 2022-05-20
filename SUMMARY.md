@@ -47,8 +47,6 @@
 ## mtn DAO Grants
 
 * [Grape DAO Dashboard: 25K USDC](mtn-dao-grants/grape-dao-dashboard-25k-usdc/README.md)
-  * [Realms](mtn-dao-grants/grape-dao-dashboard-25k-usdc/realms.md)
-  * [MeanFi SDK](mtn-dao-grants/grape-dao-dashboard-25k-usdc/meanfi-sdk.md)
   * [Streamflow SDK](mtn-dao-grants/grape-dao-dashboard-25k-usdc/streamflow-sdk.md)
 
 ## Grape Agency Services

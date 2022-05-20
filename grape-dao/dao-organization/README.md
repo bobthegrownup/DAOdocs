@@ -44,7 +44,7 @@ _GRAPE_ - For Grape Members\
 _GRAPE WORK_ - For working tasks and projects\
 _LANGUAGE_ - International Groups
 
-<mark style="color:purple;">****</mark>[<mark style="color:purple;">**Discourse**</mark>](https://dao.grapenetwork.org) is the official Grape DAO forum for DAO-related activities. It is the place where discussions, proposals, and votes take place. \
+<mark style="color:purple;">****</mark>[<mark style="color:purple;">**Discourse**</mark>](https://dao.grapenetwork.org/) is the official Grape DAO forum for DAO-related activities. It is the place where discussions, proposals, and votes take place. \
 \
 Every Grape Community Member is able to get reading access to keep up with these activities, but unless they are a DAO Member, they cannot comment, propose, or vote.
 
