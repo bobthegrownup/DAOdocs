@@ -48,6 +48,7 @@
 
 * [Grape DAO Dashboard: 25K USDC](mtn-dao-grants/grape-dao-dashboard-25k-usdc/README.md)
   * [Streamflow SDK](mtn-dao-grants/grape-dao-dashboard-25k-usdc/streamflow-sdk.md)
+  * [Completed Grants](mtn-dao-grants/grape-dao-dashboard-25k-usdc/completed-grants.md)
 
 ## Grape Agency Services
 
