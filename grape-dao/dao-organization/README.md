@@ -10,7 +10,7 @@ As frontrunners in the DAO space, it is important to remember that we are sailin
 
 ## Governance
 
-![Current Grape Governance Structure](<../../.gitbook/assets/image (3) (2).png>)
+![Current Grape Governance Structure](<../../.gitbook/assets/image (3) (2) (1).png>)
 
 **Community:** Our community is everything to us. From it, we draw our strength, inspiration, and drive to innovate and improve. This is why we make it as easy as possible for members to participate, and all who want to [<mark style="color:purple;">**get involved**</mark>](../../grape-community/get-involved/) can.
 

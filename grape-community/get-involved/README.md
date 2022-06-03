@@ -12,13 +12,13 @@ If you already joined us on Discord, great! Then have a look at what we’ve got
 
 Grape Membership: A way to get entertained, learn, and network **Crypto-Style**!
 
-* Access to exclusive high-level research around Solana NFTs, Defi strategies, and AMAs.
+* Access to exclusive high-level research around Solana NFTs, DeFi strategies, and AMAs.
 * Ability to join the GRAPE workforce, request work, and earn more $GRAPE.
 * Participation in giveaways, airdrops, beta tests.
 * Contests and events with $GRAPE prizes.
 * Guaranteed monthly emissions based on your Class.
 
-![These numbers reflect the necessary amount of $GRAPE to keep your membership next month since the first payout happens only after a full month of membership.](<../../.gitbook/assets/image (1).png>)
+![These numbers reflect the necessary amount of $GRAPE to keep your membership next month since the first payout happens only after a full month of membership.](<../../.gitbook/assets/image (3).png>)
 
 Based on the current emission schedule, the inflation expected in 2022 from Community Emissions is the following:
 
@@ -39,15 +39,15 @@ Based on the current emission schedule, the inflation expected in 2022 from Comm
 
 To compensate token holders for the emission schedule and prevent the dilution of their voting power, token requirements are connected to the expected emissions in the next epoch.&#x20;
 
-**As seen in the infographic above the token requirements per class increased by** \~4.38%, **for the month of May 2022, to:** &#x20;
+**As seen in the infographic above the token requirements per class increased by** \~3.91%, **for the month of June 2022, to:** &#x20;
 
-Class C - Gibbon 1,295 $GRAPE
+Class C - Gibbon 1,325 $GRAPE
 
-Class B - Great Ape 6,455 $GRAPE
+Class B - Great Ape 6,705 $GRAPE
 
-Class A - Gorilla 25,825 $GRAPE
+Class A - Gorilla 26,830 $GRAPE
 
-Class Neanderthal - 208,260 $GRAPE\
+Class Neanderthal - 216,400 $GRAPE\
 
 
 
