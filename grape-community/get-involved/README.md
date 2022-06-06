@@ -39,6 +39,8 @@ Based on the current emission schedule, the inflation expected in 2022 from Comm
 
 To compensate token holders for the emission schedule and prevent the dilution of their voting power, token requirements are connected to the expected emissions in the next epoch.&#x20;
 
+**IMPORTANT:** To be eligible for these emissions, community members need to have the required GRAPE amount deposited in realms ([https://realms.today/dao/GRAPE](https://realms.today/dao/GRAPE)) for the entire calendar month!
+
 **As seen in the infographic above the token requirements per class increased by** \~3.91%, **for the month of June 2022, to:** &#x20;
 
 Class C - Gibbon 1,325 $GRAPE
