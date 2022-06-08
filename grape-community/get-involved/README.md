@@ -18,7 +18,7 @@ Grape Membership: A way to get entertained, learn, and network **Crypto-Style**!
 * Contests and events with $GRAPE prizes.
 * Guaranteed monthly emissions based on your Class.
 
-![These numbers reflect the necessary amount of $GRAPE to keep your membership next month since the first payout happens only after a full month of membership.](<../../.gitbook/assets/image (3).png>)
+![These numbers reflect the necessary amount of $GRAPE to keep your membership next month since the first payout happens only after a full month of membership.](<../../.gitbook/assets/image (5).png>)
 
 Based on the current emission schedule, the inflation expected in 2022 from Community Emissions is the following:
 

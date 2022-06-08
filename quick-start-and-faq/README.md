@@ -135,4 +135,4 @@ Please be aware of scammers. If you come across such a group, understand it is c
 
 Sure, there are grape things ahead!
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)

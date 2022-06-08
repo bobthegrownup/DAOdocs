@@ -1,6 +1,6 @@
 # Community Services
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 We are proud to be the center of excellence in the Solana ecosystem. We are even prouder of our community’s inclusivity, diversity, and ethos!
 
