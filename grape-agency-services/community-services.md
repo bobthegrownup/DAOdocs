@@ -12,4 +12,4 @@ The services outlined in the attached document below are being provided by our d
 
 **In alignment with our core goal, to strengthen the Solana ecosystem, we're now offering Community Services as well as the formula of our community and DAO success to our partners**:
 
-{% file src="../.gitbook/assets/Grape_Services.pdf" %}
+[https://services.grapes.network/](https://services.grapes.network/)
