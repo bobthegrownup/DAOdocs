@@ -4,7 +4,7 @@ description: >-
   opportunities and will back the value of the $GRAPE token.
 ---
 
-# Treasury and Adresses
+# 💰 Treasury and Addresses
 
 ****
 

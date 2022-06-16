@@ -58,4 +58,4 @@
 ## Tokenomics & Treasury
 
 * [💎 Tokenomics](tokenomics-and-treasury/tokenomics.md)
-* [💰 Treasury and Adresses](tokenomics-and-treasury/treasury.md)
+* [💰 Treasury and Addresses](tokenomics-and-treasury/treasury.md)
