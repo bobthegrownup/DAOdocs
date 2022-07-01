@@ -4,7 +4,7 @@ description: >-
   are part the subDAO Content
 ---
 
-# Content
+# 🪙 Content
 
 ### Community Creator
 

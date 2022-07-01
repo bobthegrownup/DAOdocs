@@ -4,7 +4,7 @@ description: >-
   Community Management subDAO
 ---
 
-# Community Management
+# 🪙 Community Management
 
 ### **Moderators**
 

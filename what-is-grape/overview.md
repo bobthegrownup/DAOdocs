@@ -2,7 +2,7 @@
 description: The Grape Community is the dedicated community of the Grape Network
 ---
 
-# The Grape Way
+# 🚀 The Grape Way
 
 The Grape Community is intended for avid Solana supporters focused on accelerating the adoption and growth of the Solana ecosystem whit their talents and enthusiasm.&#x20;
 

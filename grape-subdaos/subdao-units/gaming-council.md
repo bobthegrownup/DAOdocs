@@ -1,4 +1,4 @@
-# Gaming Council
+# 🪙 Gaming Council
 
 The Grape Gaming Council looks to leverage your passion and the resources of GRAPE to create a team that innovates in the field of community led GameFi adoption and growth. Being a DAO we look forward to being able to empower the community in taking actions to prioritise what the community thinks is most important.
 

@@ -1,4 +1,4 @@
-# Sales Emissions
+# 💵 Sales Emissions
 
 **Grape Services are a community effort!** \
 ****\

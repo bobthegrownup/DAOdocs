@@ -5,11 +5,10 @@ description: >-
   remaining 300 million of Community rewards
 ---
 
-# Overview
+# 💎 Tokenomics
 
 ![Token Allocation](../.gitbook/assets/tok1.png)
 
 ![10 year Token Distribution](../.gitbook/assets/tok2.png)
 
 ![Vesting Table](../.gitbook/assets/tok3.png)
-

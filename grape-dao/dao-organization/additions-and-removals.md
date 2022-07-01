@@ -1,4 +1,4 @@
-# Additions and Removals
+# 🧐 Additions and Removals
 
 ### **DAO Additions**
 

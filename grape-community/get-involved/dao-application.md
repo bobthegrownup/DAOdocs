@@ -1,4 +1,4 @@
-# DAO Application
+# 📋 DAO Application
 
 The Grape DAO is the highest expression of community involvement. As a member of this group, you are integral to the Grape Community and a core contributor who votes on major decisions, shaping the future of the project.
 

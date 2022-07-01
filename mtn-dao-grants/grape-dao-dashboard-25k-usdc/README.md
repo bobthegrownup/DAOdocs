@@ -4,7 +4,7 @@ description: >-
   at accelerating the growth and adoption of DAO tooling on Solana.
 ---
 
-# Grape DAO Dashboard: 25K USDC
+# 💸 Grape DAO Dashboard: 25K USDC
 
 ## First Grant Series: Grape DAO Dashboard <a href="#a7a9" id="a7a9"></a>
 

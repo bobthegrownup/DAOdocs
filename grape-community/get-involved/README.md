@@ -2,7 +2,7 @@
 description: The community is you and you are the community.
 ---
 
-# Get involved - and benefit!
+# 🏪 Get involved - and benefit!
 
 Being part of a community is easy these days. Shaping the future of an entire ecosystem? Not so much. But with Grape, you actually can! How you might ask? Well, everyone has certain skills, a special talent, or is pretty good at something. We at Grape believe that everyone can contribute, your job is to find out how. The easiest way to start and engage with the community is on Discord. [<mark style="color:purple;">**Join us!**</mark>](https://discord.gg/greatape)<mark style="color:purple;">****</mark>
 
@@ -18,7 +18,7 @@ Grape Membership: A way to get entertained, learn, and network **Crypto-Style**!
 * Contests and events with $GRAPE prizes.
 * Guaranteed monthly emissions based on your Class.
 
-![These numbers reflect the necessary amount of $GRAPE to keep your membership next month since the first payout happens only after a full month of membership.](<../../.gitbook/assets/image (5).png>)
+![These numbers reflect the necessary amount of $GRAPE to keep your membership next month since the first payout happens only after a full month of membership.](../../.gitbook/assets/image.png)
 
 Based on the current emission schedule, the inflation expected in 2022 from Community Emissions is the following:
 
@@ -41,15 +41,15 @@ To compensate token holders for the emission schedule and prevent the dilution o
 
 **IMPORTANT:** To be eligible for these emissions, community members need to have the required GRAPE amount deposited in realms ([https://realms.today/dao/GRAPE](https://realms.today/dao/GRAPE)) for the entire calendar month!
 
-**As seen in the infographic above the token requirements per class increased by** \~3.91%, **for the month of June 2022, to:** &#x20;
+**As seen in the infographic above the token requirements per class increased by** \~3.91%, **for the month of July 2022, to:** &#x20;
 
-Class C - Gibbon 1,325 $GRAPE
+Class C - Gibbon 1,395 $GRAPE
 
-Class B - Great Ape 6,705 $GRAPE
+Class B - Great Ape 6,955 $GRAPE
 
-Class A - Gorilla 26,830 $GRAPE
+Class A - Gorilla 27,825 $GRAPE
 
-Class Neanderthal - 216,400 $GRAPE\
+Class Neanderthal - 224,400 $GRAPE\
 
 
 

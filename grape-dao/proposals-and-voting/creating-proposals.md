@@ -2,7 +2,7 @@
 description: Discourse and on-chain Proposals
 ---
 
-# Creating Proposals
+# 📃 Creating Proposals
 
 ## Proposals
 

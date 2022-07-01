@@ -2,7 +2,7 @@
 description: Members with the Developer Skill Role are part of the Development subDAO
 ---
 
-# Development
+# 🪙 Development
 
 We have so many things to build and only so many resources. If you are interested in helping out with everything coding-related, from websites to smart contracts then this is the Skill Role for you!
 

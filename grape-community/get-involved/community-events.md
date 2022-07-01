@@ -1,4 +1,4 @@
-# Community Events
+# 🌐 Community Events
 
 Grape hosts multiple [<mark style="color:purple;">**events**</mark>](https://twitter.com/EventsGrape) **** every week with generous prize pools in $GRAPE!
 

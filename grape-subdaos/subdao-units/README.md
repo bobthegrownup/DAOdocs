@@ -1,4 +1,4 @@
-# subDAO Units
+# 🎛 subDAO Units
 
 The Grape DAO will start with 6 subDAOs that reflect the needs of the community today. The Skill Roles associated with each respective subDAO are presented in parentheses.
 

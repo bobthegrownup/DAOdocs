@@ -2,7 +2,7 @@
 description: Voting is the most profound way of participation in the DAO. So vote!
 ---
 
-# Voting
+# ✍ Voting
 
 ### **Voting on Discourse**
 

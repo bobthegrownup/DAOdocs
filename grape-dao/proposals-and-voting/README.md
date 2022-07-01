@@ -2,7 +2,7 @@
 description: Discussions and Proposals are the backbones of the DAO Governance
 ---
 
-# Proposals & Voting
+# ⚖ Proposals & Voting
 
 
 

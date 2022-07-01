@@ -4,7 +4,7 @@ description: >-
   operational units of Grape, the DAO Core, and DAO Board
 ---
 
-# Organization
+# 🗃 Organization
 
 As frontrunners in the DAO space, it is important to remember that we are sailing in uncharted territories. Therefore, we sustain and promote a culture of constant philosophical exploration. Our mission is to develop an effective and efficient structure that is able to operate autonomously for years to come. Flexibility and open-mindedness are our mottos in this Web3.0 journey.
 

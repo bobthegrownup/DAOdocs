@@ -2,7 +2,7 @@
 description: Members with the Researcher Skill Role are part of the Research subDAO
 ---
 
-# Research
+# 🪙 Research
 
 #### Responsibilities
 

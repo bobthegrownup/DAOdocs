@@ -2,7 +2,7 @@
 description: Members with the Panda Skill Role are part the subDAO China
 ---
 
-# China (Pandas)
+# 🪙 China (Pandas)
 
 <mark style="color:purple;">**Discord管理员**</mark>
 

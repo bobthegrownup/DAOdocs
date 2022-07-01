@@ -1,4 +1,4 @@
-# ↳ Partners
+# 🤝 ↳ Partners
 
 You are running a project on Solana and have a Discord server for your community that you want to have permissions based on what assets they hold in their wallets? Great! Grape Access can help you with that.
 

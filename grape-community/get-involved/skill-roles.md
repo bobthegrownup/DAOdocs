@@ -1,4 +1,4 @@
-# Skill Roles
+# 🤹 Skill Roles
 
 Skill Roles are allocated to community members that have shown exceptional talent and contributed to a work request or workgroup. These roles are grouped into separate [<mark style="color:purple;">**subDAOs**</mark>](../../grape-subdaos/sub-daos.md) which organize and govern themselves.
 

@@ -1,4 +1,4 @@
-# Quick Start | FAQ
+# 🛠 Quick Start | FAQ
 
 \[_You want to use or are using a Grape product? Here is our_ [_<mark style="color:purple;">**FAQ for partners**</mark>_](broken-reference)_._]
 

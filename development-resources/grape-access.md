@@ -4,7 +4,7 @@ description: >-
   to users based on their wallets balances.
 ---
 
-# Grape Access
+# ✅ Grape Access
 
 {% hint style="danger" %}
 Starting Sunday, May 1st, 2022: 1 Grape Access Network (1 $GAN) token will be required to use Grape Access Verification for each Discord server (see [<mark style="color:purple;">**below**</mark>](grape-access.md#grape-access-verification)).&#x20;

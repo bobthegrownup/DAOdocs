@@ -4,7 +4,7 @@ description: >-
   generation for the whole Grape Community.
 ---
 
-# Working Together
+# 🤲 Working Together
 
 ### s**ubDAO** Responsibilities
 

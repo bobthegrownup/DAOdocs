@@ -1,4 +1,4 @@
-# Developer Bounties
+# 💻 Developer Bounties
 
 Grape is aiming to be the main supporting force of Solana on all fronts; From community building to development.&#x20;
 

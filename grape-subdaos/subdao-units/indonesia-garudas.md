@@ -2,7 +2,7 @@
 description: Members with the Garuda Skill Role are part the subDAO Indonesia
 ---
 
-# Indonesia (Garudas)
+# 🪙 Indonesia (Garudas)
 
 Peran ini mempunyai tanggung jawab sangat besar,menuntut individu kreatif inovatif dalam segala hal,jika anda ada di komunitas grapeindonesia sekarang,dan mempunyai semangat.Ada kemungkinan besar anda memenuhi syarat untuk bergabung bersama kami di garudacrew.
 

@@ -1,4 +1,4 @@
-# The DAO
+# 🔮 The DAO
 
 The [<mark style="color:purple;">**Grape DAO**</mark>](../grape-dao/dao-responsibilities.md) is the governing body of our decentralized community.\
 It has one main goal: Guarantee the success of Grape by harnessing and coordinating the incredible power of our community’s effort, ability, and potential.

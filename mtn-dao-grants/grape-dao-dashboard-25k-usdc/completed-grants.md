@@ -4,7 +4,7 @@ description: >-
   submissions.
 ---
 
-# Completed Grants
+# ㊗ Completed Grants
 
 ## Realms
 
