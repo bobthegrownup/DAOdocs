@@ -29,6 +29,8 @@ This is where the following types of inflows can be found:
 > $ALPHA: `7fjy7R1NhMxYToESWMchks4tW1pw4C7NxGJMYUysziP2`
 >
 > $gVID: `57uDybiPjcjwv31XjauNryoEBU6J6VTqaS8cyxvpfLmm`
+>
+> $GCT: 2D79eSu9VzByZvpBAmrJdWR6KrinCK4Zgvt1mW2ta8zb
 
 _External_
 
@@ -54,7 +56,7 @@ _External_
 >
 > Alpha Club [https://realms.today/dao/Hmr6GHe2TJbRUDfPWdDCrMKFzipcDN8gt3yixeLzYcH4/treasury](https://realms.today/dao/Hmr6GHe2TJbRUDfPWdDCrMKFzipcDN8gt3yixeLzYcH4/treasury) _GRAPE:_ `23s547U2cucAvctjnvP7Ug5ZumnAaUb2nVCk6nyGw9np`
 >
-> [https://realms.today/dao/8BhHks5iDpqViKvZSiftgZDkpBc9mJKdG68ppfXpyvS/treasury](https://realms.today/dao/8BhHks5iDpqViKvZSiftgZDkpBc9mJKdG68ppfXpyvS/treasury) Content SubDAO Realms
+> Grape Content SubDAO: [https://realms.today/dao/A9zS9kTuobH3nSyzvhtVqhRA61vXs2wnxrQgMScUBzur](https://realms.today/dao/A9zS9kTuobH3nSyzvhtVqhRA61vXs2wnxrQgMScUBzur)
 >
 > _GRAPE:_ `Cov6e3jEMwvS51g9g5Mty1We542ZqdRZCAS5dMzpEQtc`
 
