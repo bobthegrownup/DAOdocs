@@ -68,9 +68,13 @@ _External_
 >
 > _Vault:_ `74VCiQfoFC394ikir23KyA2bG4yasnEY4B6ZJkNgvL5W`&#x20;
 >
-> Grape Council - Gaming [https://app.squads.so/squad/5Lv1jK3uL2PxSM3voj4MD5JNk5pv3gnD91U5ty7sS3eg/info](https://app.squads.so/squad/5Lv1jK3uL2PxSM3voj4MD5JNk5pv3gnD91U5ty7sS3eg/info) _Vault:_ `CmCC7YU9TcAqrLVtqssH1sFKgWXHfSoNQguCdyA5NsSc`&#x20;
+> Grape Gaming `` Council   [https://app.squads.so/squad/5Lv1jK3uL2PxSM3voj4MD5JNk5pv3gnD91U5ty7sS3eg/info](https://app.squads.so/squad/5Lv1jK3uL2PxSM3voj4MD5JNk5pv3gnD91U5ty7sS3eg/info) _Vault:_ `CmCC7YU9TcAqrLVtqssH1sFKgWXHfSoNQguCdyA5NsSc`&#x20;
 >
-> Grape Council - NFT [https://app.squads.so/squad/FQnhyHwxkKtzwH17i73vP6M93j8sc5jddG6rc8GVbzf6/info](https://app.squads.so/squad/FQnhyHwxkKtzwH17i73vP6M93j8sc5jddG6rc8GVbzf6/info) _Vault:_ `HTD5C4ebj1PH6WJfycF16h6VJ61TcDxYHcnmsjiftpXV`
+> Grape NFT Council [https://app.squads.so/squad/FQnhyHwxkKtzwH17i73vP6M93j8sc5jddG6rc8GVbzf6/info](https://app.squads.so/squad/FQnhyHwxkKtzwH17i73vP6M93j8sc5jddG6rc8GVbzf6/info) _Vault:_ `HTD5C4ebj1PH6WJfycF16h6VJ61TcDxYHcnmsjiftpXV`
+>
+> `Grape Community Management SubDAO Squad:`[`https://app.squads.so/squad/5ZBwtmzU8jxR81Y1szjxzYHZ4sdUH34W9wqCuSCEJ49y/info`](https://app.squads.so/squad/5ZBwtmzU8jxR81Y1szjxzYHZ4sdUH34W9wqCuSCEJ49y/info)``
+>
+> Vault: 4CymeCLrEg1EJLaYNuRWX6zzev8q1HjLhjXB4WGgCUR8
 
 _**Monthly Treasury Audit reports coming soon!**_
 
