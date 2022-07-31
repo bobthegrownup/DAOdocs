@@ -28,7 +28,8 @@ Our bottom-up approach to building a decentralized social network focuses primar
 * Website:\* [https://grapes.network/](https://grapes.network/)
 * Documentation: [https://docs.grapes.network/](https://docs.grapes.network/)
 * Safety Sites: [https://safety.grapes.network/](https://safety.grapes.network/)
-* NFT Marketplace: [https://nft.grapes.network/](https://nft.grapes.network/)
+* NFT Marketplace: [https://grape.art/](https://grape.art/)
+* Grape Drive: [https://grape-drive.pages.dev/](https://grape-drive.pages.dev/)
 * DAO: [https://dao.grapenetwork.org/](https://dao.grapenetwork.org/)
 * Discourse (Invite): [https://dao.grapenetwork.org/invites/ht47VNPVER](https://dao.grapenetwork.org/invites/ht47VNPVER)
 
