@@ -2,7 +2,7 @@
 
 You are running a project on Solana and have a Discord server for your community that you want to have permissions based on what assets they hold in their wallets? Great! Grape Access can help you with that.
 
-If you are interested in setting up Grape Access on your Discord server, use [<mark style="color:purple;">**this form**</mark>](https://docs.google.com/forms/d/e/1FAIpQLSe97GpvQC-tVe4Jobb6raKkd3miCGCrIFYCBXTYb8dN-odabw/viewform) to prepare everything. If you have any questions, don't hesitate to join our [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) and ask away.
+If you are interested in setting up Grape Access on your Discord server, use [<mark style="color:purple;">**this form**</mark>](https://docs.google.com/forms/d/e/1FAIpQLSdbvX18mai6WSpiaLwOcyTxG-WXBS\_DqHSR0Zmetz\_kdVn--A/viewform) to prepare everything. If you have any questions, don't hesitate to join our [<mark style="color:purple;">**Discord**</mark>](https://discord.gg/greatape) and ask away.
 
 ## FAQ
 
