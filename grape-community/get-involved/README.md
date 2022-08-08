@@ -18,8 +18,6 @@ Grape Membership: A way to get entertained, learn, and network **Crypto-Style**!
 * Contests and events with $GRAPE prizes.
 * Guaranteed monthly emissions based on your Class.
 
-![These numbers reflect the necessary amount of $GRAPE to keep your membership next month since the first payout happens only after a full month of membership.](../../.gitbook/assets/image.png)
-
 Based on the current emission schedule, the inflation expected in 2022 from Community Emissions is the following:
 
 * 5.3% **January** 74.8M circulating tokens
@@ -41,15 +39,18 @@ To compensate token holders for the emission schedule and prevent the dilution o
 
 **IMPORTANT:** To be eligible for these emissions, community members need to have the required GRAPE amount deposited in realms ([https://realms.today/dao/GRAPE](https://realms.today/dao/GRAPE)) for the entire calendar month!
 
-**As seen in the infographic above the token requirements per class increased by** \~3.91%, **for the month of July 2022, to:** &#x20;
+**Token requirements per class increased by** \~3.91%, **for the month of AUGUST 2022, to:** &#x20;
 
-Class C - Gibbon 1,395 $GRAPE
+**August 2022 membership requirements:**&#x20;
 
-Class B - Great Ape 6,955 $GRAPE
+\- Class C: Gibbon: **1445** $GRAPE&#x20;
 
-Class A - Gorilla 27,825 $GRAPE
+\- Class B: Great Ape: **7200** $GRAPE&#x20;
 
-Class Neanderthal - 224,400 $GRAPE\
+\- Class A: Gorilla: **28800** $GRAPE&#x20;
+
+\- Hidden Super Class: **Neanderthal**: **232255** $GRAPE
+
 
 
 

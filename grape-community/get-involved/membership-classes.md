@@ -4,7 +4,7 @@ _As explained under  <mark style="color:purple;">****</mark>_ [_<mark style="col
 
 ### **Class C - Gibbon**
 
-_1,395 $GRAPE or 910 Raydium LP Tokens_
+**1445** _$GRAPE or xx Raydium LP Tokens_
 
 * Access to priority channels such as DAO, Solana NFTS, and much more&#x20;
 * Chatting in Grape Community Channels&#x20;
@@ -20,7 +20,7 @@ Membership requirements and emissions have been updated (see values above or in 
 
 ### **Class B - Great Ape**
 
-_6,955 $GRAPE or 4,550 LP Tokens_
+_7200 $GRAPE or xx LP Tokens_
 
 * Access to contests and events! 'Higher contest and events prize payouts of up to 250,000 every month! Class B members' price pools are 1/2 of Class A members' prize pools.
 * Access to AMAs and Q\&A chat&#x20;
@@ -28,7 +28,7 @@ _6,955 $GRAPE or 4,550 LP Tokens_
 * Access to Alpha-Chat.&#x20;
 * Participation in subDAOs and workforce! Get a Skill Role and be a major contributor in GRAPE. Over 1.5 million GRAPE every month!&#x20;
 * High Priority in Solana airdrops, giveaways, and beta testing_._
-* Class B monthly emissions (270 $GRAPE) to match the increase in membership
+* Class B monthly emissions to match the increase in membership
 
 {% embed url="https://www.youtube.com/watch?v=rtsOJH5-cwk" %}
 Grape Benefits - Class B: Great Ape\
@@ -37,7 +37,7 @@ Membership requirements and emissions have been updated (see values above or in 
 
 ### **Class A - Gorilla**
 
-_27,820 $GRAPE or 18,100 LP Tokens_
+_28800$GRAPE or xx LP Tokens_
 
 * Application to the DAO! The DAO decides everything around the GRAPE emissions, partnerships, and incubator applications. This is the highest level of involvement in the Solana ecosystem&#x20;
 * Get on the stage! Access to AMAs and join the conversation during Q\&A&#x20;
