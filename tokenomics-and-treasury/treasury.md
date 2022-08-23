@@ -64,13 +64,13 @@ _External_
 
 **SQUADS Multi-Sigs**
 
-> DAO Board - Incentives Pool: Bounty [https://app.squads.so/squad/7epefBnXTzMXJzxKeKTncgbC6EiTSQDHoZK8Ekg5RJER/info](https://app.squads.so/squad/7epefBnXTzMXJzxKeKTncgbC6EiTSQDHoZK8Ekg5RJER/info) _Vault:_ `6cRKGePJQu671qHYNAMT3REwQotxdumXG43Gg76yu2zh`&#x20;
+> GRAPE DAO: AGILITY\
+> [https://v3.squads.so/info/9CZbtrKWwYwBsQccu3sRR87MfGLXtwKRTzHFU437ifAt](https://v3.squads.so/info/9CZbtrKWwYwBsQccu3sRR87MfGLXtwKRTzHFU437ifAt)\
+> `7NnoyUdbbqYS9HC9bpdBt35Vd2WYwM4d2V1kHvQkxDWj`
 >
-> DAO Board - Agility Fund&#x20;
->
-> ****[https://v3.squads.so/vault/assets/9CZbtrKWwYwBsQccu3sRR87MfGLXtwKRTzHFU437ifAt](https://v3.squads.so/vault/assets/9CZbtrKWwYwBsQccu3sRR87MfGLXtwKRTzHFU437ifAt)
->
-> _Vault:_ 7NnoyUdbbqYS9HC9bpdBt35Vd2WYwM4d2V1kHvQkxDWj&#x20;
+> GRAPE DAO: BOUNTY\
+> [https://v3.squads.so/info/HKB8unb9Ppz8ytffjwLnCdpzkGCkGQ7D1Ar7jLFbPjNc](https://v3.squads.so/info/HKB8unb9Ppz8ytffjwLnCdpzkGCkGQ7D1Ar7jLFbPjNc)\
+> `F5UMGig7FFAg6XNkdtT9EyC7Yzq9wGrqWbfccE6DE4Y2`
 >
 > Grape Gaming `` Council   [https://app.squads.so/squad/5Lv1jK3uL2PxSM3voj4MD5JNk5pv3gnD91U5ty7sS3eg/info](https://app.squads.so/squad/5Lv1jK3uL2PxSM3voj4MD5JNk5pv3gnD91U5ty7sS3eg/info) _Vault:_ `CmCC7YU9TcAqrLVtqssH1sFKgWXHfSoNQguCdyA5NsSc`&#x20;
 >
@@ -80,6 +80,17 @@ _External_
 >
 > Vault: 4CymeCLrEg1EJLaYNuRWX6zzev8q1HjLhjXB4WGgCUR8
 
-_**Monthly Treasury Audit reports coming soon!**_
+{% hint style="warning" %}
+**Deprecated**\
+\
+DAO Board - Incentives Pool: Bounty\
+[https://app.squads.so/squad/7epefBnXTzMXJzxKeKTncgbC6EiTSQDHoZK8Ekg5RJER/info](https://app.squads.so/squad/7epefBnXTzMXJzxKeKTncgbC6EiTSQDHoZK8Ekg5RJER/info) _Vault:_ `6cRKGePJQu671qHYNAMT3REwQotxdumXG43Gg76yu2zh`&#x20;
+
+DAO Board - Agility Fund\
+[https://v3.squads.so/vault/assets/9CZbtrKWwYwBsQccu3sRR87MfGLXtwKRTzHFU437ifAt](https://v3.squads.so/vault/assets/9CZbtrKWwYwBsQccu3sRR87MfGLXtwKRTzHFU437ifAt)\
+_Vault:_ 7NnoyUdbbqYS9HC9bpdBt35Vd2WYwM4d2V1kHvQkxDWj&#x20;
+{% endhint %}
+
+
 
 _****_
