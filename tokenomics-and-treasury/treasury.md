@@ -59,14 +59,18 @@ _External_
 > Grape Content SubDAO: [https://realms.today/dao/A9zS9kTuobH3nSyzvhtVqhRA61vXs2wnxrQgMScUBzur](https://realms.today/dao/A9zS9kTuobH3nSyzvhtVqhRA61vXs2wnxrQgMScUBzur)
 >
 > _GRAPE:_ `Cov6e3jEMwvS51g9g5Mty1We542ZqdRZCAS5dMzpEQtc`
+>
+> _SOL_: `9PR9U1HetmuoWK1bhh98e1kej8Uy3V7bMfDe43pJVCvj`
 
 **SQUADS Multi-Sigs**
 
 > DAO Board - Incentives Pool: Bounty [https://app.squads.so/squad/7epefBnXTzMXJzxKeKTncgbC6EiTSQDHoZK8Ekg5RJER/info](https://app.squads.so/squad/7epefBnXTzMXJzxKeKTncgbC6EiTSQDHoZK8Ekg5RJER/info) _Vault:_ `6cRKGePJQu671qHYNAMT3REwQotxdumXG43Gg76yu2zh`&#x20;
 >
-> DAO Board - Agility Fund [https://app.squads.so/squad/9AvMYgUztHkta9wr7F9gfj4zbtQAEMuEh5wtUH3fFrsZ/info](https://app.squads.so/squad/9AvMYgUztHkta9wr7F9gfj4zbtQAEMuEh5wtUH3fFrsZ/info)&#x20;
+> DAO Board - Agility Fund&#x20;
 >
-> _Vault:_ `74VCiQfoFC394ikir23KyA2bG4yasnEY4B6ZJkNgvL5W`&#x20;
+> ****[https://v3.squads.so/vault/assets/9CZbtrKWwYwBsQccu3sRR87MfGLXtwKRTzHFU437ifAt](https://v3.squads.so/vault/assets/9CZbtrKWwYwBsQccu3sRR87MfGLXtwKRTzHFU437ifAt)
+>
+> _Vault:_ 7NnoyUdbbqYS9HC9bpdBt35Vd2WYwM4d2V1kHvQkxDWj&#x20;
 >
 > Grape Gaming `` Council   [https://app.squads.so/squad/5Lv1jK3uL2PxSM3voj4MD5JNk5pv3gnD91U5ty7sS3eg/info](https://app.squads.so/squad/5Lv1jK3uL2PxSM3voj4MD5JNk5pv3gnD91U5ty7sS3eg/info) _Vault:_ `CmCC7YU9TcAqrLVtqssH1sFKgWXHfSoNQguCdyA5NsSc`&#x20;
 >
