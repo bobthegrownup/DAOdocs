@@ -72,16 +72,32 @@ _External_
 > [https://v3.squads.so/info/HKB8unb9Ppz8ytffjwLnCdpzkGCkGQ7D1Ar7jLFbPjNc](https://v3.squads.so/info/HKB8unb9Ppz8ytffjwLnCdpzkGCkGQ7D1Ar7jLFbPjNc)\
 > `F5UMGig7FFAg6XNkdtT9EyC7Yzq9wGrqWbfccE6DE4Y2`
 >
-> Grape Gaming `` Council   [https://app.squads.so/squad/5Lv1jK3uL2PxSM3voj4MD5JNk5pv3gnD91U5ty7sS3eg/info](https://app.squads.so/squad/5Lv1jK3uL2PxSM3voj4MD5JNk5pv3gnD91U5ty7sS3eg/info) _Vault:_ `CmCC7YU9TcAqrLVtqssH1sFKgWXHfSoNQguCdyA5NsSc`&#x20;
+> Grape Gaming Council   [https://app.squads.so/squad/5Lv1jK3uL2PxSM3voj4MD5JNk5pv3gnD91U5ty7sS3eg/info](https://app.squads.so/squad/5Lv1jK3uL2PxSM3voj4MD5JNk5pv3gnD91U5ty7sS3eg/info)__
 >
-> Grape NFT Council [https://app.squads.so/squad/FQnhyHwxkKtzwH17i73vP6M93j8sc5jddG6rc8GVbzf6/info](https://app.squads.so/squad/FQnhyHwxkKtzwH17i73vP6M93j8sc5jddG6rc8GVbzf6/info) _Vault:_ `HTD5C4ebj1PH6WJfycF16h6VJ61TcDxYHcnmsjiftpXV`
+> _Vault:_ `CmCC7YU9TcAqrLVtqssH1sFKgWXHfSoNQguCdyA5NsSc`&#x20;
 >
-> `Grape Community Management SubDAO Squad:`[`https://app.squads.so/squad/5ZBwtmzU8jxR81Y1szjxzYHZ4sdUH34W9wqCuSCEJ49y/info`](https://app.squads.so/squad/5ZBwtmzU8jxR81Y1szjxzYHZ4sdUH34W9wqCuSCEJ49y/info)``
+> Grape NFT Council [https://app.squads.so/squad/FQnhyHwxkKtzwH17i73vP6M93j8sc5jddG6rc8GVbzf6/info](https://app.squads.so/squad/FQnhyHwxkKtzwH17i73vP6M93j8sc5jddG6rc8GVbzf6/info)__
+>
+> _Vault:_ `HTD5C4ebj1PH6WJfycF16h6VJ61TcDxYHcnmsjiftpXV`
+>
+> Grape Community Management SubDAO
+>
+> `Squad:`[`https://app.squads.so/squad/5ZBwtmzU8jxR81Y1szjxzYHZ4sdUH34W9wqCuSCEJ49y/info`](https://app.squads.so/squad/5ZBwtmzU8jxR81Y1szjxzYHZ4sdUH34W9wqCuSCEJ49y/info)``
 >
 > Vault: 4CymeCLrEg1EJLaYNuRWX6zzev8q1HjLhjXB4WGgCUR8
+>
+> Grape Syndicate Committee
+>
+> `Squads v3:` [`https://v3.squads.so/info/9roSxTPmQxYVqsCsjj4C3EfGSzeWhCh2UADg8mJnK3vN`](https://v3.squads.so/info/9roSxTPmQxYVqsCsjj4C3EfGSzeWhCh2UADg8mJnK3vN)``
+>
+> **Vault:** CutA18b9gMv8mGMvqesohPmDfevV6Mtmr4qM3iDhNxVh
+>
+>
 
 {% hint style="warning" %}
-**Deprecated**\
+**Deprecated**
+
+\
 \
 DAO Board - Incentives Pool: Bounty\
 [https://app.squads.so/squad/7epefBnXTzMXJzxKeKTncgbC6EiTSQDHoZK8Ekg5RJER/info](https://app.squads.so/squad/7epefBnXTzMXJzxKeKTncgbC6EiTSQDHoZK8Ekg5RJER/info) _Vault:_ `6cRKGePJQu671qHYNAMT3REwQotxdumXG43Gg76yu2zh`&#x20;
