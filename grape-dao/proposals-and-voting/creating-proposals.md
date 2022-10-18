@@ -65,22 +65,26 @@ Once in the creation screen, there are two options to proceed with setting up th
 The description can either be done:
 
 1. directly in realms (simple)
-2. in [<mark style="color:purple;">**Github Gist**</mark>](https://gist.github.com/) (advanced)
+2. in [<mark style="color:purple;">**GitHub Gist**</mark>](https://gist.github.com/) (advanced)
+
+{% hint style="danger" %}
+Realms only supports a limited amount of characters. If you want to post a proposal with a text >250 characters, you need to use GitHub Gist.
+{% endhint %}
 
 Proposals, in general, should be **clear**, **concise**, and **informative**. They should also contain a reference link that directs a reader/voter to the proposals' origin (e.g. Discourse).&#x20;
 
 ![Preparing a proposal](../../.gitbook/assets/create\_proposal.png)
 
 {% hint style="info" %}
-If you create a proposal using Github Gist, paste only the link in the field 'Description' \[1]; putting anything else will fail on execution and the Github Gist content won't be parsed.\
+If you create a proposal using GitHub Gist, paste _only_ the link in the field 'Description' \[1]; putting anything else will fail on execution and the GitHub Gist content won't be parsed.\
 Here is a [<mark style="color:purple;">**template**</mark>](https://gist.github.com/CryptoPawz/7c13f52bf9c9e8189d00b957e1d53f8f) and this is some [<mark style="color:purple;">**markup**</mark>](https://gist.github.com/ww9/44f08d44327a40d2ab309a349bebec57) (not everything will show correctly).\
 [_<mark style="color:purple;">**This**</mark>_](https://realms.today/dao/GRAPE/proposal/ECvFEgo6fzTfYgQop7Vrfby7VGumSWN89dX6uUMp1fin) _is what the template proposal looks like._
 {% endhint %}
 
-In order to create a proposal without any on-chain instruction, just select 'None' and choose any wallet under 'Governance' \[2]. If you want to add any on-chain instructions, simply choose the transaction type and the correct wallet. Be extra cautious and better check twice. You can always save the proposal as a draft and let a fellow DAO Member cross-check.
+In order to create a proposal without any on-chain instruction, just select 'None' and choose any wallet under 'Governance' \[2]. If you want to add any on-chain instructions, simply choose the transaction type and the correct wallet. Be extra cautious and better check twice. You can always save the proposal as a draft and let a fellow DAO Member cross-check it.
 
 {% hint style="danger" %}
-Once you select 'Save draft' or 'Add proposal' \[3] you neither can change the instructions nor the title! Right now, the description can be changed if you're using Github Gist. Basically, the only difference with a draft is that the proposal isn't live.
+Once you select 'Save draft' or 'Add proposal' \[3] you neither can change the instructions nor the title! Right now, the description can be changed if you're using GitHub Gist. Basically, the only difference with a draft is that the proposal isn't live.
 {% endhint %}
 
 \
