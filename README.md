@@ -22,7 +22,7 @@ Our bottom-up approach to building a decentralized social network focuses primar
 
 ## Links & Resources
 
-* Discord: [https://discord.gg/greatape](https://discord.gg/greatape)
+* Discord: [https://discord.gg/grapedao](https://discord.gg/grapedao)
 * Grape Network App: [https://verify.grapes.network/](https://verify.grapes.network/)
 * Twitter: [https://twitter.com/grapeprotocol](https://twitter.com/grapeprotocol) | Events: [https://twitter.com/EventsGrape](https://twitter.com/EventsGrape)
 * Website:\* [https://grapes.network/](https://grapes.network/)
